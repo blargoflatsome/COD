@@ -1,4 +1,3 @@
-# To DO
 1. Tables [Search, Sort, Random Picker]
    1. Story Beats Options
       1. Party Options

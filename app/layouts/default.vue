@@ -7,21 +7,16 @@ const { data: navigation } = await useAsyncData('navigation', () =>
 </script>
 
 <template>
-  <UHeader toggle-side="left">
+  <UHeader toggle-side="left" mode="slideover" :menu="{side: 'left'}">
     <template #title>Catacombs of Despair</template>
-		<UDrawer>
-			<UButton label="Open" color="neutral" variant="subtle" trailing-icon="i-lucide-chevron-up" />
-
-			<template #content>
-				<UContentNavigation :navigation="navigation" :default-open="false"  highlight highlight-color="primary" color="primary" variant="pill" />
-			</template>
-		</UDrawer>
-
-    <template #right>
-			Right Side
+		
+		<template #body>
+      <UContentNavigation :navigation="navigation" :default-open="false"  highlight variant="pill" />
     </template>
   </UHeader>
-  <UPage>
-		<slot />
-  </UPage>
+  <UMain>
+		<UContainer>
+			<slot />
+		</UContainer>
+  </UMain>
 </template>

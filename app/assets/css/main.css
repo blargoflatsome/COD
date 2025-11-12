@@ -2,6 +2,304 @@
 @import "@nuxt/ui";
 @source "../../../content/**/*";
 
-html, body {
-  @apply bg-black text-gray-100;
+@theme static {
+	--color-slatePrimary-50: #ead9d9;
+	--color-slatePrimary-100: #d6b4b4;
+	--color-slatePrimary-200: #c28f8f;
+	--color-slatePrimary-300: #a75e5d;
+	--color-slatePrimary-400: #8c2d2c;
+	--color-slatePrimary-500: #780807;
+	--color-slatePrimary-600: #540504;
+	--color-slatePrimary-700: #3c0403;
+	--color-slatePrimary-800: #240202;
+	--color-slatePrimary-900: #120101;
+	--color-slatePrimary-950: #090000;
+
+	--color-slateSecondary-50: #e9e3da;
+	--color-slateSecondary-100: #d4c8b6;
+	--color-slateSecondary-200: #bfad92;
+	--color-slateSecondary-300: #a38861;
+	--color-slateSecondary-400: #876431;
+	--color-slateSecondary-500: #72490d;
+	--color-slateSecondary-600: #4f3309;
+	--color-slateSecondary-700: #392406;
+	--color-slateSecondary-800: #221503;
+	--color-slateSecondary-900: #110a01;
+	--color-slateSecondary-950: #090501;
+
+	--color-slateSuccess-50: #d9e8e3;
+	--color-slateSuccess-100: #b4d2c8;
+	--color-slateSuccess-200: #8ebcac;
+	--color-slateSuccess-300: #5c9e88;
+	--color-slateSuccess-400: #2a8163;
+	--color-slateSuccess-500: #056b48;
+	--color-slateSuccess-600: #034a32;
+	--color-slateSuccess-700: #023524;
+	--color-slateSuccess-800: #012015;
+	--color-slateSuccess-900: #00100a;
+	--color-slateSuccess-950: #000805;
+
+	--color-slateInfo-50: #d9e3f1;
+	--color-slateInfo-100: #b4c7e4;
+	--color-slateInfo-200: #8fabd6;
+	--color-slateInfo-300: #5d86c5;
+	--color-slateInfo-400: #2c61b3;
+	--color-slateInfo-500: #0746a6;
+	--color-slateInfo-600: #043174;
+	--color-slateInfo-700: #032353;
+	--color-slateInfo-800: #021531;
+	--color-slateInfo-900: #010a18;
+	--color-slateInfo-950: #00050d;
+
+	--color-slateWarning-50: #fcf3d8;
+	--color-slateWarning-100: #fae7b2;
+	--color-slateWarning-200: #f8db8c;
+	--color-slateWarning-300: #f5cc59;
+	--color-slateWarning-400: #f2bc26;
+	--color-slateWarning-500: #f0b100;
+	--color-slateWarning-600: #a87b00;
+	--color-slateWarning-700: #785800;
+	--color-slateWarning-800: #483500;
+	--color-slateWarning-900: #241a00;
+	--color-slateWarning-950: #130e00;
+
+	--color-slateError-50: #fbe3e2;
+	--color-slateError-100: #f8c7c5;
+	--color-slateError-200: #f5aba8;
+	--color-slateError-300: #f08681;
+	--color-slateError-400: #ec605a;
+	--color-slateError-500: #e9453e;
+	--color-slateError-600: #a3302b;
+	--color-slateError-700: #74221f;
+	--color-slateError-800: #451412;
+	--color-slateError-900: #220a09;
+	--color-slateError-950: #120504;
+
+	--color-slateNeutral-50: #eef0f4;
+	--color-slateNeutral-100: #dde2ea;
+	--color-slateNeutral-200: #cdd4df;
+	--color-slateNeutral-300: #b6c1d1;
+	--color-slateNeutral-400: #a0afc3;
+	--color-slateNeutral-500: #90a1b9;
+	--color-slateNeutral-600: #647081;
+	--color-slateNeutral-700: #48505c;
+	--color-slateNeutral-800: #2b3037;
+	--color-slateNeutral-900: #15181b;
+	--color-slateNeutral-950: #0b0c0e;}
+
+:root {
+	--ui-primary: var(--ui-color-primary-500);
+	--ui-secondary: var(--ui-color-secondary-500);
+	--ui-success: var(--ui-color-success-500);
+	--ui-info: var(--ui-color-info-500);
+	--ui-warning: var(--ui-color-warning-500);
+	--ui-error: var(--ui-color-error-500);
+	--ui-neutral: var(--ui-color-neutral-200);
+
+	--ui-text: var(--ui-color-neutral-800);
+	--ui-text-dimmed: var(--ui-color-neutral-400);
+	--ui-text-muted: var(--ui-color-neutral-600);
+	--ui-text-toned: var(--ui-color-neutral-700);
+	--ui-text-highlighted: var(--ui-color-neutral-900);
+	--ui-text-inverted: white;
+
+	--ui-bg-muted: var(--ui-color-neutral-50);
+	--ui-bg-elevated: var(--ui-color-neutral-100);
+	--ui-bg-accented: var(--ui-color-neutral-200);
+	--ui-bg-inverted: var(--ui-color-neutral-800);
+
+	--ui-border: var(--ui-color-neutral-400);
+	--ui-border-muted: var(--ui-color-neutral-300);
+	--ui-border-accented: var(--ui-color-primary-600);
+	--ui-border-inverted: var(--ui-color-neutral-800);
+
+  --color-gray-darkest: #2a2a2a;
+  --color-gray-darker:  #4d4d4d;
+  --color-gray-dark:    #6c6c6c;
+  --color-gray-base:    #767676;
+  --color-gray-light:   #d5d5d5;
+  --color-gray-lighter:#f3f3f3;
+  --color-gray-lightest:#fafafa;
+  --color-action-light: #7395ae;
+  --color-action-dark:  #557a95;
+  --color-accent-darkest:#370617;
+  --color-accent-dark:  #6A040F;
+  --color-accent-base:  #6A040F;
+  --color-accent-light: #D00000;
+  --color-accent-lighter:#9D0208;
+  --color-accent-fade:  #d48e8f40;
+
+  --ui-text-highlighted: var(--color-black);
+  --ui-bg: var(--color-black);
+}
+
+@layer base {
+  html,
+  body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: theme('colors.gray.200');
+    height: 100%;
+    color: var(--color-gray-darkest);
+  }
+
+  /* Links */
+  a {
+    color: var(--color-action-dark);
+    @apply font-bold;
+  }
+  a:hover {
+    color: var(--color-action-light);
+  }
+
+  /* Headers */
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-bold capitalize my-4;
+  }
+
+  h1 > a:hover,
+  h2 > a:hover,
+  h3 > a:hover,
+  h4 > a:hover {
+    color: inherit;
+    text-decoration: none;
+    cursor: default;
+  }
+
+  h1 > a,
+  h2 > a,
+  h3 > a,
+  h4 > a {
+    color: inherit;
+    text-decoration: none;
+    cursor: default;
+  }
+
+  h1 {
+    @apply text-3xl mb-5;
+    color: var(--color-accent-darkest);
+  }
+
+  h2 {
+    @apply text-2xl mb-3;
+    color: var(--color-accent-dark);
+  }
+
+  h3 {
+    @apply text-xl;
+    color: var(--color-gray-darkest);
+  }
+
+  h4 {
+    @apply my-3 -mb-2 text-black font-bold;
+  }
+
+  /* Sub Header */
+  h2 + .sub {
+    @apply -mt-3;
+  }
+
+  /* Basic Content Stuff */
+  p {
+    @apply leading-relaxed my-3 mx-0;
+  }
+
+  code {
+    @apply block my-3 text-sm leading-relaxed;
+  }
+
+  strong {
+    color: var(--color-gray-dark);
+  }
+
+  /* Tables */
+  table {
+    @apply w-full;
+  }
+
+  thead > tr {
+    background-color: var(--color-accent-dark);
+    @apply text-white;
+  }
+
+  tbody > tr:not(:last-child) {
+    @apply border-b bg-white text-black;
+  }
+
+  tbody > tr:hover {
+    background-color: var(--color-accent-fade);
+    @apply text-black;
+  }
+
+  th,
+  td {
+    @apply text-left px-3;
+  }
+
+.markdown ol {
+  list-style-type: decimal;
+  line-height: 1.6;
+}
+
+.markdown ol ol {
+  list-style-type: lower-alpha; /* Second level: a, b, c, ... */
+}
+
+.markdown ol ol ol {
+  list-style-type: lower-roman; /* Third level: i, ii, iii, ... */
+}
+
+.markdown ol li {
+  margin-left: 15px;
+  margin-bottom: 8px; /* Spacing between list items */
+  color: #333; /* Text color */
+}
+
+.markdown ol li::marker {
+  font-weight: bold; /* Makes the numbers bold */
+}
+
+.markdown ul {
+  list-style: none; /* Removes default bullets */
+  margin: 0; /* Removes default margin */
+  padding-top: 10px;
+  padding: 0; /* Removes default padding */
+  font-family: Arial, sans-serif; /* Sets a clean, readable font */
+  line-height: 1.6; /* Improves readability of text */
+}
+
+.markdown ul li {
+  margin-bottom: 8px; /* Adds spacing between list items */
+  padding-left: 15px; /* Adds left padding for visual separation */
+  position: relative; /* Allows for custom bullet styling if desired */
+}
+
+/* Optional: Custom bullet using pseudo-elements */
+.markdown ul li::before {
+  content: "•"; /* Custom bullet character */
+  color: #333; /* Color of the custom bullet */
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+  
+
+
+
+  /* With no author its just a Note */
+  blockquote:not(.hasAuthor) {
+    @apply p-3 my-3 text-left text-lg;
+    color: var(--color-gray-dark);
+    background-color: var(--color-gray-lightest);
+    border-left-color: var(--color-gray-light);
+    border-right-color: var(--color-gray-light);
+  }
+
+  blockquote:not(.hasAuthor) p {
+    margin: 0;
+    padding: 0;
+  }
 }

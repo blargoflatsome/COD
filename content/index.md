@@ -4,12 +4,6 @@
 
 # Catacombs of Despair
 
-Hello, this is a [Markdown]{.px-1 .bg-blue-200 .rounded-lg} file!
-
-::div{.w-full .bg-green-200 .p-4}
-Another way to use it!
-::
-
 You are from a world much like our own where magic is believed to be a work of fiction. However, a few years ago an archeological dig site has quickly become a place of legend within the hushest of whispers.
 
 Rumors of these tunnels range as you would expect them too. Everything from the gates to hell or heaven as out there as Narnia itself. Those who know of it all seem to know a guy who knows a guy who went into the tunnels and returned, but nobody can be verified and proof is flimsy at best. 

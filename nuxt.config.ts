@@ -17,5 +17,21 @@ export default defineNuxtConfig({
       tailwind()
     ],
   },
+  typescript: {
+    typeCheck: true,
+  },
+  ui: {
+		theme: {
+			colors: [
+				'primary',
+				'secondary',
+				'success',
+				'info',
+				'warning',
+				'error',
+				'neutral',
+			],
+		},
+	},
 
 })

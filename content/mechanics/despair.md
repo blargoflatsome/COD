@@ -1,4 +1,3 @@
-# Despair
 This world has a draining effect on the body and mind. A player will accumulate Despair over the course of the game in a variety of ways. Every time you gain a rank in Despair you will also suffer a flaw of some kind. The DM will determine if the Despair should effect your Mind, Body, Gear, or just be Rotten Luck.
 
 **How to Gain or Lose Despair**

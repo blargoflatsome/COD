@@ -1,7 +1,5 @@
-# Character Creation Rules
-do stuff 
-
 ## DnD Beyond
+[Join The Campaign](https://www.dndbeyond.com/campaigns/join/58697612909311391)
 
 ## Set your Desperation
 Your Desperation is your ultimate goal for entering the Catacombs. What are you so desperate to accomplish that you would risk entering the Catacombs of Despare?

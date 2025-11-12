@@ -1,5 +1,3 @@
-# Story Beats
-
 > This is an experimental leveling system and is subject to change during play.
 
 Story Beats are little milestones in your character's story, and advancement is simple; you choose two Personal and one Party Story Beat at the end of each session (and at character creation);  if you trigger the circumstances of each beat, you gain xp! Once you've hit a given beat you can't choose it again. Two players may not take the same Story Beat at the same time. A beat that hasn't been achieved can be abandoned at the end of a session and replaced or kept for the next session.
