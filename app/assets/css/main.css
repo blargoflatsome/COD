@@ -1,5 +1,7 @@
-@layer theme, base, components, utilities;
-@import "tailwindcss/theme.css" layer(theme);
-@import "tailwindcss/utilities.css" layer(utilities);
-@source "../../../content/**/*"; /* Adjust path as needed */
+@import "tailwindcss";
+@import "@nuxt/ui";
+@source "../../../content/**/*";
 
+html, body {
+  @apply bg-black text-gray-100;
+}
