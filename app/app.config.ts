@@ -12,7 +12,7 @@ export default defineAppConfig({
     header: {
       slots: {
         root: 'bg-primary backdrop-blur border-b border-default h-(--ui-header-height) sticky top-0 z-50',
-        toggle: 'lg:block',
+        toggle: 'text-white hover:text-black lg:block',
         content: 'lg:block',
         overlay: 'lg:block',
         title: 'shrink-0 font-bold text-xl text-white flex items-end gap-1.5',
@@ -20,7 +20,7 @@ export default defineAppConfig({
     },
     contentToc: {
       slots: {
-        title: 'hidden',
+        title: 'text-white lg:hidden',
        },
     }
   }

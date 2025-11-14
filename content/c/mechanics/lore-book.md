@@ -1,0 +1,1 @@
+A Book of Lore grants a +1 to any Intelligence roll based on the subject matter of the book. Each use of the book takes up one of its 5 charges. When all charges are used up, you have learned all you can from the book.
