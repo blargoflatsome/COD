@@ -215,7 +215,7 @@
   }
 
   strong {
-    color: var(--color-gray-dark);
+    color: var(--color-slatePrimary-500);
   }
 
   /* Tables */
