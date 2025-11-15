@@ -141,7 +141,10 @@
     font-size: 16px;
     height: 100%;
     color: var(--color-gray-light);
-    background: url('/images/bg.png') black no-repeat center center fixed;
+  }
+
+  .bg-default {
+    background: url('/images/bg.png') black no-repeat center center fixed
   }
 
   /* Links */
