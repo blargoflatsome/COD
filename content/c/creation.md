@@ -1,12 +1,12 @@
+![Banner Image](/images/creation-banner.png)
+
 ## DnD Beyond
 [Join The Campaign](https://www.dndbeyond.com/campaigns/join/58697612909311391)
 
 ## Set Your Desperation
 
-Your **Desperation** is your ultimate reason for entering the Catacombs.  
-What are you so desperate to accomplish that you would risk descending into the **Catacombs of Despair**?
-
-### Desperation Examples
+Your Desperation is your ultimate reason for entering the Catacombs.  
+What are you so desperate to accomplish that you would risk descending into the Catacombs of Despair?
 
 ### Adrenaline / Adventure Seeking
 - **Death-Chaser**  
@@ -84,4 +84,5 @@ What are you so desperate to accomplish that you would risk descending into the 
 Choose **up to 3 modern items** that make sense for your character’s backstory.  
 *Note: Anything like a gun will have a fixed amount of ammo.*
 
-
+## Picking a Species
+You may be a D&D race outside of Human, but this change will take place once to enter the Catacombs. The idea being that your race would reflect some aspect of who you are or how you truly see yourself. This could be subconsciously and understanding why you appear as that race could be part of your self discovery.

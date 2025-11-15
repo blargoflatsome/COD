@@ -1,5 +1,3 @@
-# Mini-games
-
 ## Arm Wrestle
 - Each contestant rolls a d20 and adds their Strength modifier.
 - Highest total wins.

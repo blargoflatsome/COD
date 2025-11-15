@@ -7,7 +7,7 @@
     </template>
   </UHeader>
   <UMain>
-		<UContainer>
+		<UContainer class="mb-4">
 			<slot />
 		</UContainer>
   </UMain>

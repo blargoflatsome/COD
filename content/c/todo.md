@@ -1,7 +1,6 @@
 
 1. Flush out despair mechanic and flaws
-2. 
-3. Game Info
+2. Game Info
    1. NPCs
       1. Picture
       2. Short Bio
@@ -12,7 +11,7 @@
       2. Feats / Powers
       3. Mechanics
          1. Fire Spread
-4. Advanced
+3. Advanced
    1. Map Locations?
    2. Nuxt Fonts
    3. Nuxt Images

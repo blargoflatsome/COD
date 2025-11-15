@@ -2,12 +2,12 @@
   <UPage v-if="page">
     <UPageHeader v-if="page.title" :title="page.title" class="p-0" />
 
-    <UPageBody class="m-0">
+    <UPageBody class="m-0 pe-2">
       <ContentRenderer v-if="page.body" :value="page" class="markdown" />
     </UPageBody>
 
     <template v-if="page?.body?.toc?.links?.length" #right>
-      <UContentToc :links="page.body.toc.links" title="Table of Contents" />
+      <UContentToc :links="page.body.toc.links" title="Table of Contents" class="fixed right-0" />
     </template>
   </UPage>
 </template>

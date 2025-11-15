@@ -131,18 +131,17 @@
   --color-accent-lighter:#9D0208;
   --color-accent-fade:  #d48e8f40;
 
-  --ui-text-highlighted: var(--color-black);
+  --ui-text-highlighted: var(--color-accent-lighter);
   --ui-bg: var(--color-black);
 }
 
 @layer base {
-  html,
   body {
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
-    background-color: theme('colors.gray.200');
     height: 100%;
-    color: var(--color-gray-darkest);
+    color: var(--color-gray-light);
+    background: url('/images/bg.png') black no-repeat center center fixed;
   }
 
   /* Links */
@@ -181,18 +180,20 @@
   }
 
   h1 {
-    @apply text-3xl mb-5;
-    color: var(--color-accent-darkest);
+    @apply mb-5;
+    color: var(--color-accent-base);
+    font-family: 'Estonia', sans-serif;
+    font-size: 4rem !important;
   }
 
   h2 {
-    @apply text-2xl mb-3;
-    color: var(--color-accent-dark);
+    @apply text-2xl mb-3 mt-8;
+    color: var(--color-gray-lighter);
   }
 
   h3 {
-    @apply text-xl;
-    color: var(--color-gray-darkest);
+    @apply text-xl mt-8;
+    color: var(--color-accent-lighter);
   }
 
   h4 {
@@ -227,18 +228,17 @@
     @apply text-white;
   }
 
-  tbody > tr:not(:last-child) {
+  tbody > tr {
     @apply border-b bg-white text-black;
   }
 
   tbody > tr:hover {
-    background-color: var(--color-accent-fade);
-    @apply text-black;
+    font-weight: bold;
   }
 
   th,
   td {
-    @apply text-left px-3;
+    @apply text-left px-3 py-3;
   }
 
   .markdown ol {
@@ -257,7 +257,6 @@
   .markdown ol li {
     margin-left: 15px;
     margin-bottom: 8px; /* Spacing between list items */
-    color: #333; /* Text color */
   }
 
   .markdown ol li::marker {
@@ -279,14 +278,22 @@
     position: relative; /* Allows for custom bullet styling if desired */
   }
 
+  .markdown ul li::before {
+    content: "•"; /* Custom bullet character */
+    color: var(--color-accent-light); /* Color of the custom bullet */
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
 
   /* With no author its just a Note */
   blockquote:not(.hasAuthor) {
-    @apply p-3 my-3 text-left text-lg;
-    color: var(--color-gray-dark);
-    background-color: var(--color-gray-lightest);
+    @apply p-3 my-3 text-left;
+    color: var(--color-gray-light);
+    background-color: var(--color-accent-fade);
     border-left-color: var(--color-gray-light);
     border-right-color: var(--color-gray-light);
+    border-radius: 0.375rem; /* Rounded corners */
   }
 
   blockquote:not(.hasAuthor) p {

@@ -52,7 +52,7 @@ When picking Story Beats remember your Desperation; the DM will consider how you
 - Dissect something or interrogate someone that can shed light on your task.
 - Buy some cutting-edge, experimental or finely-made equipment and use it.
 
-### Forced/Employed/Warlock
+### Forced/Employed
 
 - Receive orders from your masters.
 - Follow orders from your masters, even though they put you at risk.
@@ -74,7 +74,7 @@ When picking Story Beats remember your Desperation; the DM will consider how you
 - Involve an NPC in your master’s schemes.
 - Do a favor for someone to gain leverage over them.
 
-### Occult (needs revision)
+### Occult
 
 - See something from your dreams in the real world.
 - Consume something of the Occult.
