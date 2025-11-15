@@ -2,13 +2,14 @@
     "flaws": [
         {
             "id": 1,
-            "name": "Lose an",
-            "description": "You lose a body part.",
+            "name": "Lose the use of a body part.",
+            "permanent": true,
+            "description": "A random body part is lost or becomes disabled.",
             "options": [
                 {
                     "key": "arm_hand",
                     "name": "Arm/Hand",
-                    "effect": "Can no longer use two-handed weapons. Disadvantage on skill checks best done with two hands."
+                    "effect": "You can no longer use two-handed weapons. Disadvantage on skill checks best done with two hands."
                 },
                 {
                     "key": "leg",
@@ -35,126 +36,181 @@
         {
             "id": 2,
             "name": "Faded",
+            "permanent": false,
             "description": "You become less corporeal and deal only half damage."
         },
         {
             "id": 3,
             "name": "Choice Paralysis",
+            "permanent": false,
             "description": "When presented with a choice, you are incapable of making it and will defer to anyone else who does."
         },
         {
             "id": 4,
             "name": "Vulnerability",
-            "description": "Become vulnerable to a damage type."
+            "permanent": false,
+            "description": "Become vulnerable to a damage type.",
+            "options": [
+                {
+                    "key": "fire",
+                    "name": "Fire"
+                },
+                {
+                    "key": "cold",
+                    "name": "Cold"
+                },
+                {
+                    "key": "necrotic",
+                    "name": "Necrotic"
+                },
+                {
+                    "key": "radiant",
+                    "name": "Radiant"
+                },
+                {
+                    "key": "poison",
+                    "name": "Poison"
+                },
+                {
+                    "key": "psychic",
+                    "name": "Psychic"
+                },
+                {
+                    "key": "thunder",
+                    "name": "Thunder"
+                }
+            ]
         },
         {
             "id": 5,
             "name": "Deformed",
+            "permanent": true,
             "description": "Your body develops a physical manifestation of Despair (horns, claws, harpoon arms, etc.)."
         },
         {
             "id": 6,
             "name": "Debt",
+            "permanent": true,
             "description": "Someone or something saves you; it will collect on that debt later."
         },
         {
             "id": 7,
             "name": "Tormented",
+            "permanent": false,
             "description": "All future rolls for Despair are at disadvantage."
         },
         {
             "id": 8,
             "name": "Conduit of Despair",
+            "permanent": true,
             "description": "Once per session the DM can force you into taking an action. Wisdom save DC 30 to resist. You may not crit on this save."
         },
         {
             "id": 9,
             "name": "Broken Bonds",
+            "permanent": true,
             "description": "One of your Allies either dies or becomes a Nemesis."
         },
         {
             "id": 10,
             "name": "Did you hear that?",
+            "permanent": false,
             "description": "You hear barely audible whispers. Your next Despair Roll is at Disadvantage."
         },
         {
             "id": 11,
             "name": "Gaps in Memory",
+            "permanent": true,
             "description": "The other players work with the DM to determine something awful your character did that it doesn't remember up to a year ago. You will have no memory of it but everyone else involved knows."
         },
         {
             "id": 12,
             "name": "Self Doubt",
+            "permanent": true,
             "description": "You second guess your every move. You now fumble on a 1 or 2 until your next crit success."
         },
         {
             "id": 13,
             "name": "Chronic Fatigue",
+            "permanent": true,
             "description": "The character cannot rest properly — dreams are replaced by memories of terror or prophetic nightmares. You are always at 1 level of Exhaustion."
         },
         {
             "id": 14,
             "name": "Ennui",
+            "permanent": false,
             "description": "Suffer a D4 reduction to your AC at the start of every combat."
         },
         {
             "id": 15,
             "name": "Hypervigilant",
+            "permanent": true,
             "description": "You gain Advantage on Perception checks."
         },
         {
             "id": 16,
             "name": "It's all in your head",
+            "permanent": true,
             "description": "You believe you are suffering a Physical ailment no matter what evidence is presented otherwise. "
         },
         {
             "id": 17,
             "name": "Lure of Darkness",
+            "permanent": true,
             "description": "You become obsessed with a location and take 1 level of Exhaustion every long rest where you have not grown closer to that location."
         },
         {
             "id": 18,
             "name": "Negativity Bias",
+            "permanent": true,
             "description": "Everyone hates you. Disadvantage on Insight"
         },
         {
             "id": 19,
             "name": "People Pleaser",
+            "permanent": true,
             "description": "Add half of your Proficiency modifier (min 1) to any skill check you assist on in addition to the normal Advantage. You are at Disadvantage on any action you perform where someone else is aiding you."
         },
         {
             "id": 20,
             "name": "Unlucky",
-            "description": "You are plagued by misfortune. You may not roll natural 20s on attack rolls, ability checks, or saving throws until your next long rest."
+            "permanent": false,
+            "description": "You are plagued by misfortune. You may not roll natural 20s on attack rolls, ability checks, or saving throws."
         },
         {
             "id": 21,
             "name": "Phobia",
+            "permanent": true,
             "description": "You develop an irrational fear of a common creature or object (DM's choice). You have Disadvantage on ability checks and attack rolls when interacting with or being attacked by the source of your phobia."
         },
         {
             "id": 22,
             "name": "Ritual Path",
+            "permanent": true,
             "description": "You are called to perform a dark ritual. You are shown more of the ritual over time as you take on more Despair."
         },
         {
             "id": 23,
             "name": "Social Anxiety",
+            "permanent": true,
             "description": "You suffer a -1 to all Charisma rolls for every person within 10' of you."
         },
         {
             "id": 24,
             "name": "Weird",
+            "permanent": true,
             "description": "You develop an off putting tick or obsession (your choice) "
         },
         {
             "id": 25,
             "name": "Shaky Grip",
+            "permanent": false,
             "description": "Hands tremble when holding weapons, tools, or delicate objects, especially in tense situations. Checks that involve your hands are at disadvantage."
         },
         {
             "id": 26,
             "name": "Emotionally Hollow",
+            "permanent": false,
             "description": "The character struggles to connect with allies; extreme joy or sadness feels muted or absent. Disadvantage on Persuasion and Deception checks."
         }
     ]
