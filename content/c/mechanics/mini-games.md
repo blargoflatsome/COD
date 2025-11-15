@@ -7,7 +7,6 @@
 ## Drinking Contest
 Objective: reach 20 points without falling unconscious or vomiting.
 
-### Drinks
 | Drink | DC | Points |
 | --- | ---: | ---: |
 | Light-hearted | 10 | 1 |

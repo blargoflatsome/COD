@@ -131,7 +131,7 @@
   --color-accent-lighter:#9D0208;
   --color-accent-fade:  #d48e8f40;
 
-  --ui-text-highlighted: var(--color-accent-lighter);
+  --ui-text-highlighted: inherit;
   --ui-bg: var(--color-black);
 }
 
