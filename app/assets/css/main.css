@@ -183,7 +183,7 @@
     @apply mb-5;
     color: var(--color-accent-base);
     font-family: 'Estonia', sans-serif;
-    font-size: 4rem !important;
+    font-size: 3rem !important;
   }
 
   h2 {
