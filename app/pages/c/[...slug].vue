@@ -7,7 +7,7 @@
     </UPageBody>
 
     <template v-if="page?.body?.toc?.links?.length" #right>
-      <UContentToc :links="page.body.toc.links" title="Table of Contents" class="fixed right-0" />
+      <UContentToc :links="page.body.toc.links" title="Table of Contents" class="fixed right-2.5" />
     </template>
   </UPage>
 </template>
