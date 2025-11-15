@@ -11,7 +11,7 @@ export default defineAppConfig({
 		},
     header: {
       slots: {
-        root: 'bg-primary backdrop-blur border-b border-default h-(--ui-header-height) sticky top-0 z-50',
+        root: 'bg-transparent backdrop-blur border-b border-default h-(--ui-header-height) sticky top-0 z-50',
         toggle: 'text-white hover:text-black lg:block',
         content: 'lg:block',
         overlay: 'lg:block',
