@@ -1,7 +1,9 @@
 <template>
-<div class="flex justify-center">
+<div class="w-screen relative left-1/2 -ml-[50vw] right-1/2 -mr-[50vw] max-w-screen h-auto">
   <img src="/images/mainBanner.png" alt="catacombs" class="w-full h-auto" />
 </div>
+
+
 
 <h1>Catacombs of Despair</h1>
 
