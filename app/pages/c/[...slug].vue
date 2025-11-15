@@ -2,7 +2,7 @@
   <UPage v-if="page">
     <UPageHeader v-if="page.title" :title="page.title" class="p-0" />
 
-    <UPageBody class="m-0 pe-2">
+    <UPageBody class="m-0">
       <ContentRenderer v-if="page.body" :value="page" class="markdown" />
     </UPageBody>
 
