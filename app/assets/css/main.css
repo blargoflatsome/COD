@@ -8,7 +8,7 @@
 	--color-slatePrimary-200: #c28f8f;
 	--color-slatePrimary-300: #a75e5d;
 	--color-slatePrimary-400: #8c2d2c;
-	--color-slatePrimary-500: #780807;
+	--color-slatePrimary-500: #7395ae;
 	--color-slatePrimary-600: #540504;
 	--color-slatePrimary-700: #3c0403;
 	--color-slatePrimary-800: #240202;
@@ -131,7 +131,7 @@
   --color-accent-lighter:#9D0208;
   --color-accent-fade:  #d48e8f40;
 
-  --ui-text-highlighted: var(--color-accent-lighter);
+  --ui-text-highlighted: var(--color-gray-600);
   --ui-bg: var(--color-black);
 }
 
@@ -181,7 +181,7 @@
 
   h1 {
     @apply mb-5;
-    color: var(--color-accent-base);
+    color: var(--color-gray-600);
     font-family: 'Estonia', sans-serif;
     font-size: 3rem !important;
   }
@@ -193,7 +193,7 @@
 
   h3 {
     @apply text-xl mt-8;
-    color: var(--color-accent-lighter);
+    color: var(--color-gray-500);
   }
 
   h4 {
