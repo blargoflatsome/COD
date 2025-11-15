@@ -278,13 +278,13 @@
     position: relative; /* Allows for custom bullet styling if desired */
   }
 
-  .markdown ul li::before {
+  /* .markdown ul li::before {
     content: "•"; /* Custom bullet character */
     color: var(--color-accent-light); /* Color of the custom bullet */
     position: absolute;
     left: 0;
     top: 0;
-  }
+  } */
 
   /* With no author its just a Note */
   blockquote:not(.hasAuthor) {
