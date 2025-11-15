@@ -1,6 +1,6 @@
 <template>
 <div class="w-screen relative left-1/2 -ml-[50vw] right-1/2 -mr-[50vw] max-w-screen h-auto">
-  <img src="/images/mainBanner2.png" alt="catacombs" class="w-full h-auto" />
+  <NuxtImg src="/images/mainBanner2.png" alt="catacombs" class="w-full h-auto" placeholder  />
 </div>
 
 

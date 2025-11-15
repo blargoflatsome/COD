@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="relative border-b border-default pb-4 text-3xl sm:text-4xl text-pretty font-bold text-highlighted">Flaws:</h1>
-    <p><img src="/images/banner2.png" alt="flaws banner" class="w-full h-auto" /></p>
+    <p><NuxtImg src="/images/banner2.png" alt="flaws banner" class="w-full h-auto" placeholder  /></p>
 
     <!-- random pick button -->
     <div style="margin:8px 0">
