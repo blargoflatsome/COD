@@ -1,14 +1,12 @@
 ## DnD Beyond
 [Join The Campaign](https://www.dndbeyond.com/campaigns/join/58697612909311391)
 
-# Set Your Desperation
+## Set Your Desperation
 
 Your **Desperation** is your ultimate reason for entering the Catacombs.  
 What are you so desperate to accomplish that you would risk descending into the **Catacombs of Despair**?
 
----
-
-## Desperation Examples
+### Desperation Examples
 
 ### Adrenaline / Adventure Seeking
 - **Death-Chaser**  
@@ -74,16 +72,12 @@ What are you so desperate to accomplish that you would risk descending into the 
 - **Kill Their Doppelganger**  
   Someone—or something—impersonated them in the real world. Rumors whisper the double came from the Catacombs.
 
----
-
 ## Backstory Questions
 - How did you get here?
 - List **3 hopes**
 - List **3 fears**
 - List **2 accomplishments**
 - List **2 regrets**
-
----
 
 ## What Did You Bring With You?
 
