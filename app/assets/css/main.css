@@ -113,6 +113,8 @@
 	--ui-border-accented: var(--ui-color-primary-600);
 	--ui-border-inverted: var(--ui-color-neutral-800);
 
+  --ui-header-height: auto;
+
   --color-gray-darkest: #2a2a2a;
   --color-gray-darker:  #4d4d4d;
   --color-gray-dark:    #6c6c6c;
@@ -290,5 +292,27 @@
   blockquote:not(.hasAuthor) p {
     margin: 0;
     padding: 0;
+  }
+
+  @media (max-width: 768px) {
+    table, thead, tbody, th, td, tr {
+      display: block;
+    }
+
+    thead tr {
+      display: none;
+    }
+
+    tr {
+      border: 1px solid #ccc;
+      margin-bottom: 10px;
+    }
+
+    td {
+      border: none;
+      border-bottom: 1px solid #eee;
+      position: relative;
+      text-align: left;
+    }
   }
 }
