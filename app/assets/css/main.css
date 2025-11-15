@@ -229,7 +229,7 @@
   }
 
   tbody > tr {
-    @apply border-b bg-white text-black;
+    @apply border-b bg-neutral text-black;
   }
 
   tbody > tr:hover {
