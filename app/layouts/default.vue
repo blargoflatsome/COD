@@ -11,6 +11,25 @@
 			<slot />
 		</UContainer>
   </UMain>
+
+  <UFooter>
+      <template #left>
+        <div class="flex flex-col">
+          <h2 class="text-muted text-base">Useful Links</h2>
+          <ul class="list-disc list-inside text-muted text-sm">
+            <li><a href="https://www.aftermidnightgaming.com/wp-content/uploads/2021/02/727668-Discerning_Merchants_Price_Guide_v4.1.pdf" target="_blank">Discerning Merchants Price Guide</a></li>
+            <li><a href="https://www.dndbeyond.com/campaigns/join/58697612909311391" target="_blank">Join Campaign</a></li>
+          </ul>
+        </div>
+      </template>
+      
+      <template #right>
+        <p class="text-muted text-sm">
+          Copyright © {{ new Date().getFullYear() }}
+        </p>
+      </template>
+
+  </UFooter>
 </template>
 
 
