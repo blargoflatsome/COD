@@ -181,7 +181,7 @@
             "id": 21,
             "name": "Phobia",
             "permanent": true,
-            "description": "You develop an irrational fear of a common creature or object (DM's choice). You have Disadvantage on ability checks and attack rolls when interacting with or being attacked by the source of your phobia."
+            "description": "You develop an irrational fear of a common creature or object. You have Disadvantage on ability checks and attack rolls when interacting with or being attacked by the source of your phobia."
         },
         {
             "id": 22,
