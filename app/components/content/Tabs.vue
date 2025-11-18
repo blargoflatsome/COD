@@ -6,7 +6,7 @@
     </UTabs>
   </template>
 
-    <script setup>
+    <script setup lang="ts">
     import { defineProps, computed, useSlots } from 'vue';
 
     const props = defineProps({
