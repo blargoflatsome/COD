@@ -1,0 +1,9 @@
+- Landmark
+  - Semi-permanent and populated locations that the locals can somewhat rely on to exist in roughly the same place. Ex: Gear City
+- Haven
+  - Everything you might encounter in between Landmarks is considered a Haven. 
+- Tier
+  - The Catacombs of Despair run deep below the earth. In total it has 4 explorable Tiers. Each with its own unique Landmarks and Havens.
+- Rite
+  - A homebrew form of spell casting that costs Inspiration. Rites are occult rituals that may be discovered during play. There are no class restrictions on enacting Rites.
+- 

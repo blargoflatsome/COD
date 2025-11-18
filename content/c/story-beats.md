@@ -2,43 +2,59 @@
 
 > This is an experimental leveling system and is subject to change during play.
 
-Story Beats are little milestones in your character's story, and advancement is simple; you choose two Personal and one Party Story Beat at the end of each session (and at character creation);  if you trigger the circumstances of each beat, you gain xp! Once you've hit a given beat you can't choose it again. Two players may not take the same Story Beat at the same time. A beat that hasn't been achieved can be abandoned at the end of a session and replaced or kept for the next session.
+Story Beats are little milestones in your character's story, and advancement is simple: you choose two personal and one party Story Beat at the end of each session (and at character creation). If you trigger the circumstances of each beat, you gain XP. Once you've hit a given beat you can't choose it again. Two players may not take the same Story Beat at the same time. A beat that hasn't been achieved can be abandoned at the end of a session and replaced or kept for the next session.
 
-When picking Story Beats remember your Desperation; the DM will consider how your Story Beats bring you closer to acheiving it.
+When picking Story Beats, remember your desperation; the DM will consider how your Story Beats bring you closer to achieving it.
 
-> - 2 Basic Goals = 1xp
-> - 1 Advanced Goal = 1xp
-> - 1 Party Goals = 1xp/each
-> 4xp = 1 Level
+Story Beats are broken down by character archetype just to help with organization. You can pick a goal from any list.
 
-> The presented Story Beats are examples, if you think of something not listed present it to the DM for approval.
+Take your time and look over the list, as you may find Story Beats that fit well together to accomplish at the same time or Story Beats you can do now that will open opportunities to accomplish bigger ones later.
 
-## Basic
+My goal is to keep each of you roughly the same level, so this system also allows me to see who to focus on and ensure I'm not ignoring anyone as I try to provide each of you opportunities to complete your goals.
+
+The party goals are another way to ensure everyone is gaining XP, but they also keep you all on the same page with what you are ultimately trying to do. They also give each of you clear ways to betray the party to accomplish personal goals. Normally you might be tempted to feel bad about that, but nobody can fault a player for going for XP. Just be prepared to deal with the in-character consequences.
+
+> Important note: you only get credit for accomplishing active Story Beats. So if you get cursed but don't have "get cursed" as a Story Beat, you don't get credit.
+
+> - 2 basic goals = 1 XP  
+> - 1 advanced goal = 1 XP  
+> - 1 party goal = 1 XP each  
+> 4 XP = 1 level
+
+> The presented Story Beats are examples. If you think of something not listed, present it to the DM for approval. I have attempted to create a balanced list of good, indifferent, and evil Story Beats.
+
+## Basic Personal
+Basic personal goals are intended to be easier goals you can accomplish in a session or two.
 
 ### General
 
-1. Charm someone with tales of your exploits.
-2. Engage in reckless abandon with drink, drugs, or sex.
-3. Slay a beast of CR 1 or higher.
-4. Access a haven in tier 2 of the Heart.
-5. Defeat a powerful foe one-on-one.
-6. Help an important or influential figure.
-7. Refuse to back down when it would be beneficial to do so.
-8. Establish a Bond.
-9. Get in trouble with the law.
-10. Rescue someone from peril.
-11. Make a dramatic entrance that's a Risky action.
-12. Claim a resource from a dangerous location.
-13. Defend a haven from attack.
-14. Have at least three havens know your name, for good or ill.
-15. Rush into danger before anyone else.
-16. Have a cocktail, fighting move or legendary beast named after you.
-17. Go somewhere where no-one else has stepped foot for at least a century.
-18. Win an unarmed brawl.
-19. Kick someone off a tall structure.
-20. Accept Help From an Enemy
-21. Forgive Someone Who Expected Your Hatred
-22. Prove That Even here, Kindness Has Power. Through a small but meaningful gesture—sharing supplies, comforting the grieving, helping the injured — you remind someone that gentleness is still possible down here.
+1. Make death saves (and survive).
+2. Charm someone with tales of your exploits.
+3. Engage in reckless abandon with drink, drugs, or sex.
+4. Slay a beast of CR 1 or higher.
+5. Access a haven in Tier 2 of the Heart.
+6. Defeat a powerful foe one-on-one.
+7. Help an important or influential figure.
+8. Refuse to back down when it would be beneficial to do so.
+9. Establish a bond.
+10. Get in trouble with the law.
+11. Rescue someone from peril.
+12. Make a dramatic entrance that's a risky action.
+13. Claim a resource from a dangerous location.
+14. Defend a haven from attack.
+15. Have at least three havens know your name, for good or ill.
+16. Help someone who later disappears.
+17. Rush into danger before anyone else.
+18. Have a cocktail, fighting move, or legendary beast named after you.
+19. Go somewhere where no one else has stepped foot for at least a century.
+20. Win an unarmed brawl.
+21. Kick someone off a tall structure.
+22. Accept help from an enemy.
+23. Forgive someone who expected your hatred.
+24. Prove that even here, kindness has power. Through a small but meaningful gesture—sharing supplies, comforting the grieving, helping the injured—you remind someone that gentleness is still possible down here.
+25. Lose something important in a moment of panic.
+26. Realize someone or something has been watching you; it studies you—patient, silent, maybe curious.
+27. Forge a friendship or romantic relationship with an NPC.
 
 ### Knowledge
 
@@ -47,119 +63,149 @@ When picking Story Beats remember your Desperation; the DM will consider how you
 3. Gain access to knowledge that someone tried to conceal.
 4. Gain favor with a faction that can help you learn more about your goal.
 5. Destroy evidence or rhetoric that proves your task to be impossible.
-6. Sell or sacrifice an important resource to secure a secret.
-7. Reach a landmark on tier 3.
-8. Find a helpful book.
-9. Succeed at a task that someone else has recently failed to achieve.
-10. Acquire an NPC bond who has access to useful information.
-11. Flee from combat or a similarly dangerous situation, or hide until it all blows over.
-12. Meet someone from your old life who's trying to get you to give up on your quest.
-13. Dissect something or interrogate someone that can shed light on your task.
-14. Buy some cutting-edge, experimental or finely-made equipment and use it.
+6. Discover a shortcut that shouldn't exist; using it will get you to the next landmark unhurt, but something about it feels wrong.
+7. Sell or sacrifice an important resource to secure a secret.
+8. Reach a landmark on Tier 3.
+9. Find a helpful book of lore.
+10. Learn a rite (homebrew; see terminology).
+11. Learn a local's story that helps you better understand the area or the active party goal.
+12. Succeed at a task that someone else has recently failed to achieve.
+13. Acquire an NPC bond who has access to useful information.
+14. Discover an established and safe route to a new landmark.
+15. Flee from combat or a similarly dangerous situation, or hide until it all blows over.
+16. Meet someone from your old life who's trying to get you to give up on your quest.
+17. Dissect something or interrogate someone that can shed light on your task.
+18. Study and learn something about a creature that helps keep you safe from them.
+19. Buy some cutting-edge, experimental, or finely made equipment and use it.
+20. Recognize a cultural tradition that helps you improve relations with a faction.
+21. Learn how someone died here: you uncover evidence of a past tragedy—bones, notes, memories, or echoes that tell a grim story.
+22. Understand a creature's weakness; you learn something that helps the party—but only because you watched the creature suffer.
+23. Realize a haven survives because of a lie; your investigation reveals the truth behind a local comfort or myth. You must choose whether to keep it secret.
+24. Learn a hidden shortcut with risks; you find a faster path to a landmark, but it's unstable, dangerous, or ethically questionable to use.
+25. Add a new spell to your spellbook (wizards) or find a spell scroll (everyone else).
+26. Curse a disease.
+27. Reveal a truth that causes harm.
 
 ### Forced/Employed
 
 1. Receive orders from your masters.
 2. Follow orders from your masters, even though they put you at risk.
 3. Rebel against your orders, even though this puts you at risk.
-4. Forge a friendship or romantic relationship with an NPC.
-5. Get into trouble as someone discovers your checkered past.
-6. Betray someone because of your true nature.
-7. Do something dangerous to conceal your past.
-8. Invoke your masters' name to get what you want.
-9. As a result of your actions, an NPC is taken out of action or a PC suffers injury.
-10. Find a sanctuary where your masters cannot reach you.
-11. Rescue an NPC from trouble that you caused.
-12. Receive a time-critical mission that leads you away from your other objectives.
-13. Receive aid from someone reprehensible who's in the employ of your master.
-14. Send a requested resource back to your master rather than using it yourself.
-15. Perform a seemingly unconnected action for your masters that has grim consequences.
-16. Cover up a crime that someone else committed on behalf of your masters.
-17. Claim you're doing something on behalf of your masters when in fact it's for your own ends.
-18. Involve an NPC in your master's schemes.
-19. Do a favor for someone to gain leverage over them.
+4. Invoke your masters' name to get what you want.
+5. As a result of your actions, someone else suffers injury.
+6. Find a sanctuary where your masters cannot reach you.
+7. Rescue an NPC from trouble that you caused.
+8. Receive a time-critical mission that leads you away from your other objectives.
+9. Receive aid from someone reprehensible who's in the employ of your master.
+10. Send a requested resource back to your master rather than using it yourself.
+11. Perform a seemingly unconnected action for your masters that has grim consequences.
+12. Cover up a crime that someone else committed on behalf of your masters.
+13. Claim you're doing something on behalf of your masters when in fact it's for your own ends.
+14. Involve an NPC in your master's schemes.
+15. Do a favor for someone to gain leverage over them.
+16. Bring kindness into a job that doesn't require it. While performing a mandatory task (guard duty, cleaning, courier work, cataloging, etc.), you take an extra step to help someone—even though no one told you to. Your small act brightens someone's day.
+17. Go above and beyond on a required task.
+18. Use your position to prevent unnecessary harm.
+19. Do a rush job at the cost of time.
+20. Earn respect through compassion, not efficiency. Someone you work for or with softens toward you because of a kind act you performed while on duty.
+21. Learn something you weren't supposed to know about your masters or their plans. During routine work, you overhear or discover a secret that puts you at risk. Your employer would not want you talking.
+22. Discover you are replaceable in a way that terrifies you.
+23. Fail at or refuse an assigned task.
 
 ### Occult
 
 1. See something from your dreams in the real world.
-2. Consume something of the Occult.
-3. Be rendered helpless in the Heart for an hour or more.
-4. Perform a rite at a place of power (Tier 2 or deeper).
-5. Damage or sabotage a haven, letting the Heart in.
-6. Sacrifice something you love to the Heart.
-7. Allow something dangerous of the Heart to live when you could have killed it.
-8. Let your curiosity lead you into danger.
-9. Undergo a trance-like vision that lasts for hours.
-10. Communicate with something of the Heart.
-11. Witness an emissary of the Heart Itself.
-12. Receive insight from a witch, a heartsblooded person or something stranger still.
-13. Gain information on why you have been chosen by the Heart.
-14. Receive a strange surgical implant or heartsblood transfusion.
-15. Build a shrine to the Heart somewhere important.
-16. Terrify or intrigue an NPC with your obsession.
-17. Perform an act of service to an NPC witch.
-18. Shelter someone touched by the Heart from persecution.
-19. Become cursed.
-20. Consume Something That Should Not Be Eaten. You must devour an occult substance—ink, spoiled magic, someone’s shadow, a memory, a parasite—and survive the transformation it inflicts.
-21. Accept a Whisper That Never Stops. An entity implants a voice in your mind. You must act on at least one of its suggestions, even as you realize its goals are not your own.
-22. Give a Name to Something That Should Remain Nameless. You identify an eldritch thing—granting it definition and power. Its new identity clings to you, creating a bond you cannot easily sever.
-23. Sacrifice Innocence to Gain Insight. You willingly end something pure.
+2. Perform a rite at a place of power (Tier 2 or deeper).
+3. Sacrifice something you love to the occult.
+4. Allow something dangerous of the occult to live when you could have killed it.
+5. Let your curiosity lead you into danger.
+6. Undergo a trance-like vision that lasts for hours.
+7. Communicate with something occult.
+8. Witness an emissary of a cult.
+9. Receive insight from a witch or something stranger still.
+10. Gain information on why you have been chosen by an occult entity.
+11. Receive a strange surgical implant.
+12. Build a shrine to the occult somewhere important.
+13. Terrify or intrigue an NPC with your obsession.
+14. Perform an act of service to an NPC witch.
+15. Shelter someone touched by the occult from persecution.
+16. Become cursed.
+17. Consume something that should not be eaten: you must devour an occult substance—ink, spoiled magic, someone's shadow, a memory, a parasite—and survive the transformation it inflicts.
+18. Accept a whisper that never stops: an entity implants a voice in your mind. You must act on at least one of its suggestions, even as you realize its goals are not your own.
+19. Give a name to something that should remain nameless: you identify an eldritch thing—granting it definition and power. Its new identity clings to you, creating a bond you cannot easily sever.
+20. Sacrifice innocence to gain insight; you willingly end something pure.
+21. Learn a small, helpful rite from a harmless spirit.
+22. Witness an occult phenomenon that inspires wonder, not terror.
+23. Use a rite or spell to bring comfort rather than harm.
+24. Join a cult.
+25. Perform a minor pact or offering: you perform a small ritual or offer something to a local entity.
 
 ### Penitence
 
 1. Help someone vulnerable with no expectation of repayment.
-2. Repair something physical – a bridge, a door, a wall, etc. – that someone needs.
+2. Repair something physical—a bridge, a door, a wall, etc.—that someone needs.
 3. De-escalate a situation that would have led to bloodshed.
 4. Spare someone's life.
-5. Punish an NPC for wrongdoing.
-6. Meet an NPC who hates you for what you've done.
-7. Bring bodily harm to those who stand against your party.
-8. Sabotage the assets of those who stand against your party.
-9. Witness first-hand the tragic extent of your failings.
-10. Donate needed supplies.
-11. Put yourself in great danger to protect your companions.
-12. Make reparations to an NPC that you have personally wronged.
-13. Repeat a past mistake.
-14. Rescue an NPC.
-15. Refuse a desirable offer due to the restrictions of your penance.
-16. You must give up an object that carries deep emotional meaning—an heirloom, a relic, a memory totem—and break, burn, or sacrifice it to show your sincerity.
+5. Do something dangerous to conceal your past.
+6. Punish an NPC for wrongdoing.
+7. Meet an NPC who hates you for what you've done.
+8. Bring bodily harm to those who stand against your party.
+9. Sabotage the assets of those who stand against your party.
+10. Witness firsthand the tragic extent of your failings.
+11. Donate needed supplies.
+12. Put yourself in great danger to protect your companions.
+13. Make reparations to an NPC that you have personally wronged.
+14. Repeat a past mistake.
+15. Rescue an NPC.
+16. Refuse a desirable offer due to the restrictions of your penance.
+17. Give up an object that carries deep emotional meaning—an heirloom, a relic, or a memory totem—and break, burn, or sacrifice it to show your sincerity.
+18. Get into trouble as someone discovers your checkered past.
+19. Betray someone because of your true nature.
+20. Confess a secret to the wrong person.
+21. Perform a self-flagellating task.
+22. Walk through a place that reflects your guilt.
+23. Perform an act you loathe to satisfy duty: you do something distasteful to repay a debt or fulfill an obligation, knowing it diminishes you.
+24. Face a minor haunting of your past actions.
 
+## Advanced Personal Goals
+Advanced goals are larger goals you have to work toward over time. It is never too early to work toward a goal; just be sure to select it as your goal before you accomplish it.
 
-## Advanced
+### General
 
-### General Personal
-    
-1. Have a landmark or connection named after you.
-2. Successfully perform a Dangerous action that saves the day.
+1. Have a landmark named after you.
+2. Successfully perform a dangerous action that saves the day.
 3. Acquire a rare or powerful item, preferably magic.
-4. Slay a beast that's at least five times your size. (cr+5)
+4. Slay a beast that's at least five times your size (CR +5).
 5. Save a haven from destruction or doom.
-6. Connect three havens to one another with permanent paths.
-7. Explore a mysterious tower whilst on a delve
-8. Witness a Moment That Permanently Breaks Your Faith in Something
-9. Choose Who Lives and Who Is Left Behind
-10. Perform a Mercy That Feels Like Murder
-11. Fail to Save Someone Who Trusted You
-12. Bring Light to a Place That Has Forgotten It
-13. Save Someone Who Absolutely Shouldn’t Have Survived. Against impossible odds, you rescue a character others had written off—
-a trapped delver, a lost child, a cursed wanderer. Your act changes their future.
-
+6. Explore a mysterious tower.
+7. Witness a moment that permanently breaks your faith in something.
+8. Choose who lives and who is left behind.
+9. Perform a mercy that feels like murder.
+10. Fail to save someone who trusted you.
+11. Bring light to a place that has forgotten it.
+12. Save someone who absolutely shouldn't have survived.
+13. Uncover a hidden conspiracy.
 
 ### Knowledge
+
 1. Kill someone who is trying to stop you from claiming knowledge.
 2. Sell or sacrifice a resource to secure a secret.
 3. Gain authority within a faction that you can use to learn more about your goal.
 4. Find a source of knowledge on Tier 3 of the Heart.
 5. Acquire a renowned piece of equipment.
 6. Attract a protégé who's read your work and is determined to learn more.
-7. Teach Someone a Truth That Changes Their Path
-8. Understand an Enemy Enough to Heal Them Physicaly.
-9. Learn a Truth You Wish You Hadn’t. You must change a belief or behavior because of it.
-10. Open a Book That Was Meant to Stay Closed
-11. Reveal a Truth That Causes Harm
-
+7. Teach someone a truth that changes their path.
+8. Understand an enemy enough to heal them physically.
+9. Learn a truth you wish you hadn't; you must change a belief or behavior because of it.
+10. Open a book that was meant to stay closed.
+11. Reclaim a lost relic.
+12. Explore and map a previously unknown landmark.
+13. Rediscover a lost rite, artifact, or belief that restores hope to a populace.
+14. Teach or inspire through shared knowledge: take time to teach a group "how to light a fire," as the saying goes.
+15. Learn a rite on Tier 3.
 
 ### Forced/Employed
+
 1. Destroy something important to your masters.
 2. Learn or possess something that lessens the control your masters have over you.
 3. Perform a truly reprehensible act on behalf of your masters.
@@ -167,80 +213,83 @@ a trapped delver, a lost child, a cursed wanderer. Your act changes their future
 5. An important or beloved NPC dies after you bring them into your master's schemes.
 6. Thanks to your actions, a haven is pitched into deadly chaos.
 7. Coerce an important or beloved NPC into undertaking a task they don't want to do.
-8. Aid another person, who you know and hate, that is also in the employ of your masters.
-9. Complete a major objective for your master – something taking at least two sessions to achieve.
-
+8. Aid another person, who you know and hate, who is also in the employ of your masters.
+9. Complete a major objective for your master—something taking at least two sessions to achieve.
 
 ### Occult
 
 1. Perform a rite at a place of power (Tier 3 or deeper).
 2. Sacrifice someone important.
-3. Establish a bond with a Catacomb beast (Tier 2 or deeper).
-4. Meet and learn from an emissary of Despair.
-5. Destroy a haven.
-6. Deliver a crucial message on behalf of your masters.
-7. Allow an Occult Truth to Rewrite Part of You. You willingly expose yourself to an impossible truth—
-a rune, a revelation, a pattern, a name — and let it change your body, memories, or senses in a permanent way.
-Let an Occult Presence Use Your Body as Its Vessel For a brief but intense moment, you give permission for a spirit, spell, sentience, or conceptual entity to act through you. You remain conscious, aware of your loss of control, and bear the consequences afterward
-    
+3. Establish a bond with a catacomb beast (Tier 2 or deeper).
+4. Meet and learn from an emissary of despair.
+5. Deliver a crucial message on behalf of your masters.
+6. Allow an occult truth to rewrite part of you: you willingly expose yourself to an impossible truth—a rune, a revelation, a pattern, a name—and let it change your body, memories, or senses in a permanent way.
+7. Let an occult presence use your body as its vessel: for a brief but intense moment, you give permission for a spirit, spell, sentience, or conceptual entity to act through you. You remain conscious, aware of your loss of control, and bear the consequences afterward.
+8. Rise in rank within your occult faction.
+9. Discover a forbidden archive.
+10. Uncover a pattern that predicts catastrophe: a recurring occult phenomenon or symbol reveals the timing or location of a disaster. Interpreting it correctly allows prevention, but misreading it magnifies risk.
+11. Translate a forgotten language.
+12. Bear the burden of an occult entity: allow an entity to use you as a conduit.
+13. Unlock a truth that reshapes identity: the character uncovers a secret about themselves—heritage, a past pact, or latent magical ability.
+14. Rewrite a personal failure through occult means.
 
 ### Penance
+
 1. Convert an important NPC to your order's cause.
-2. Establish continual connections between two landmarks on different tiers 
-3. Perform an act that, if discovered, would undo your penance in the parties eyes.
+2. Establish continual connections between two landmarks on different tiers.
+3. Perform an act that, if discovered, would undo your penance in the party's eyes.
 4. Betray someone who really trusts you.
 5. Your party suffers a devastating setback, and you believe that it's your fault.
-6. Submit yourself for judgement. In so doing You must reveal a truth that wounds you — or have one torn from you.
+6. Submit yourself for judgment: in so doing you must reveal a truth that wounds you—or have one torn from you.
 7. A faction, cult, or lone survivor blames you for a catastrophe. Instead of defending yourself, you kneel and accept whatever consequence they demand.
 8. A person wronged by you (or who simply believes they were) refuses absolution. You must carry a physical or spiritual burden for them—hauling their supplies, absorbing a curse, or doing some degrading task—despite their rejection.
-9.  You allow a curse—lingering, viral, psychic, or subterranean—to cling to you instead of someone else. The curse must meaningfully constrain or transform you.
-10. Destroy a Part of Yourself to Prove Your Change. This can be physical (a scarification, a ritual amputation), social (burning your reputation), or metaphysical (severing a bond, surrendering a gift). The act must permanently change you or your capabilities.
-
+9. Allow a curse—lingering, viral, psychic, or subterranean—to cling to you instead of someone else. The curse must meaningfully constrain or transform you.
+10. Destroy a part of yourself to prove your change. This can be physical (a scarification, a ritual amputation), social (burning your reputation), or metaphysical (severing a bond, surrendering a gift). The act must permanently change you or your capabilities.
 
 ## Party
-Party Story Beats are actions you take as a group. Accomplishing a Party Story Beat will earn everyone in the party 1xp.
+Party Story Beats are actions you take as a group. Accomplishing a party Story Beat will earn everyone in the party 1 XP.
 
-1. **Share Knowledge**: Discover ancient wisdom and share it freely rather than hoarding it.
-2. **Defend the Weak**: Stand against oppression or injustice when others are afraid to act.
-3. **Corrupt a Power Source**: Harness forbidden magic or a cursed artifact knowingly.
-4. **Redeem a Villain**: Convince a former enemy to change sides or seek forgiveness.
-5. **End a Cycle of Violence**: Find a peaceful solution to a generational feud.
-6. **Sacrifice a Friend**: Trade an ally's life for power or expedience.
-7. **Choose Mercy Over Revenge**: Spare an enemy when vengeance would be easy.
-8. **Restore the Land**: Heal a blighted forest, cleanse a cursed lake, or rebuild a ruined town.
-9. **Dominate the World**: Attempt to control or enslave others "for their own good."
-10. **Slaughter the Innocent**: Harm bystanders or captives to make a point or take revenge.
-11. **Unite the Party**: Resolve internal conflicts and reaffirm shared values.
-12. **Seize Power Unjustly**: Overthrow a ruler or organization for selfish reasons.
-13. **Manipulate the Weak**: Use charm or magic to exploit innocent people.
-14. **Inspire Hope**: Your actions spark courage in the common folk.
-15. **Abandon the Helpless**: Ignore a plea for help to save time or treasure.
-16. **Corrupt Nature**: Poison the land or exploit magical creatures without remorse.
-17. **Atonement Quest**: A party member faces their past wrongs through action or sacrifice.
-18. **Silence the Truth**: Kill or threaten those who would expose your deeds.
-19. **Destroy Knowledge**: Burn libraries, silence witnesses, or erase history.
-20. **Save a Life at a Cost**: Choose compassion even when it endangers the mission.
-21. **Form an Alliance**: Unite rival factions or clans toward a shared goal.
-22. **Betray an Ally**: Turn on someone who trusted the party for personal gain.
-23. **Create a Monster**: Experiment or summon something that causes great harm.
-24. **Rebuild Trust**: Repair a broken relationship within the party or with an NPC.
-25. **Create a Legacy**: Found a school, guild, temple, or sanctuary that outlives the heroes.
-26. **Sacrifice for the Greater Good**: Give up personal power or treasure to prevent harm.
-27. **Rescue the Innocent**: Save a group of villagers, hostages, or lost travelers.
-28. **Desecrate the Sacred**: Destroy a temple, shrine, or symbol of faith.
-29. **Blame the Victim**: Justify atrocities or shift guilt to the powerless.
-30. **Fall to Darkness**: Fully embrace a dark god, cursed artifact, or evil destiny.
-31. **Break an Oath**: Betray a promise, pact, or code of honor for convenience.
-32. **Defy Corruption**: Refuse a tempting deal or reward that would betray your ideals.
-33. **Steal from the Needy**: Rob a poor village or defenseless traveler.
-34. **Protect Nature**: Stop exploitation of a natural resource or a sentient creature's habitat.
-35. **Bring Peace to Spirits**: Help restless souls find rest or forgiveness.
-36. **Take Joy in Cruelty**: Harm others for amusement or dominance.
-37. **Spread Fear**: Use intimidation or violence to control others.
-38. **Empower the Voiceless**: Champion a marginalized group or stand up to tyranny.
-39. **Break a Curse**: Lift a magical or emotional curse from a person or place.
-40. **Reject Redemption**: Refuse a chance to make amends after wrongdoing.
-41. **Perform a Ritual of Hope That Requires Every Voice**: A powerful benevolent rite needs multiple perspectives, emotions, or memories.
-42. **Heal a Wounded Entity Too Large for One Person to Mend**: A colossal beast, ancient guardian, or living structure is suffering.It can only be healed if each party member addresses a different aspect of the wound — physical, spiritual, emotional, or metaphysical.
-43. **Create Something Beautiful in a Place That Knows Only Ruin**: Together, the party builds, paints, grows, or summons something uplifting
-44. **Stand Against a God and Refuse to Break**: A deity, conceptual titan, or impossible intelligence confronts you. Each delver must resist in a different way
+1. **Share knowledge**: discover ancient wisdom and share it freely rather than hoarding it.
+2. **Defend the weak**: stand against oppression or injustice when others are afraid to act.
+3. **Corrupt a power source**: harness forbidden magic or a cursed artifact knowingly.
+4. **Redeem a villain**: convince a former enemy to change sides or seek forgiveness.
+5. **End a cycle of violence**: find a peaceful solution to a generational feud.
+6. **Sacrifice a friend**: trade an ally's life for power or expedience.
+7. **Choose mercy over revenge**: spare an enemy when vengeance would be easy.
+8. **Restore the land**: heal a blighted forest, cleanse a cursed lake, or rebuild a ruined town.
+9. **Dominate the world**: attempt to control or enslave others "for their own good."
+10. **Slaughter the innocent**: harm bystanders or captives to make a point or take revenge.
+11. **Unite the party**: resolve internal conflicts and reaffirm shared values.
+12. **Seize power unjustly**: overthrow a ruler or organization for selfish reasons.
+13. **Manipulate the weak**: use charm or magic to exploit innocent people.
+14. **Inspire hope**: your actions spark courage in the common folk.
+15. **Abandon the helpless**: ignore a plea for help to save time or treasure.
+16. **Corrupt nature**: poison the land or exploit magical creatures without remorse.
+17. **Atonement quest**: a party member faces their past wrongs through action or sacrifice.
+18. **Silence the truth**: kill or threaten those who would expose your deeds.
+19. **Destroy knowledge**: burn libraries, silence witnesses, or erase history.
+20. **Save a life at a cost**: choose compassion even when it endangers the mission.
+21. **Form an alliance**: unite rival factions or clans toward a shared goal.
+22. **Betray an ally**: turn on someone who trusted the party for personal gain.
+23. **Create a monster**: experiment or summon something that causes great harm.
+24. **Rebuild trust**: repair a broken relationship within the party or with an NPC.
+25. **Create a legacy**: found a school, guild, temple, or sanctuary that outlives the heroes.
+26. **Sacrifice for the greater good**: give up personal power or treasure to prevent harm.
+27. **Rescue the innocent**: save a group of villagers, hostages, or lost travelers.
+28. **Desecrate the sacred**: destroy a temple, shrine, or symbol of faith.
+29. **Blame the victim**: justify atrocities or shift guilt to the powerless.
+30. **Fall to darkness**: fully embrace a dark god, cursed artifact, or evil destiny.
+31. **Break an oath**: betray a promise, pact, or code of honor for convenience.
+32. **Defy corruption**: refuse a tempting deal or reward that would betray your ideals.
+33. **Steal from the needy**: rob a poor village or defenseless traveler.
+34. **Protect nature**: stop exploitation of a natural resource or a sentient creature's habitat.
+35. **Bring peace to spirits**: help restless souls find rest or forgiveness.
+36. **Take joy in cruelty**: harm others for amusement or dominance.
+37. **Spread fear**: use intimidation or violence to control others.
+38. **Empower the voiceless**: champion a marginalized group or stand up to tyranny.
+39. **Break a curse**: lift a magical or emotional curse from a person or place.
+40. **Reject redemption**: refuse a chance to make amends after wrongdoing.
+41. **Perform a ritual of hope that requires every voice**: a powerful benevolent rite needs multiple perspectives, emotions, or memories.
+42. **Heal a wounded entity too large for one person to mend**: a colossal beast, ancient guardian, or living structure is suffering; it can only be healed if each party member addresses a different aspect of the wound—physical, spiritual, emotional, or metaphysical.
+43. **Create something beautiful in a place that knows only ruin**: together, the party builds, paints, grows, or summons something uplifting.
+44. **Stand against a god and refuse to break**: a deity, conceptual titan, or impossible intelligence confronts you; each delver must resist in a different way.

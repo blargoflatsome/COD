@@ -6,10 +6,12 @@
       <UContentNavigation :navigation="fullNavigation" :default-open="false"  highlight variant="pill" />
     </template>
   </UHeader>
+
   <UMain>
 		<UContainer class="mb-10">
 			<slot />
 		</UContainer>
+    <BackToTop />
   </UMain>
 
   <UFooter>

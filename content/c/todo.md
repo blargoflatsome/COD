@@ -1,7 +1,7 @@
 
 1. Flush out despair mechanic and flaws
-2. Add Exhaustion Mechanic
-3. add "Back To Top" floating link
+2. add "Back To Top" floating link
+3. Terminology
 4. Game Info
    1. NPCs
       1. Picture
