@@ -20,7 +20,7 @@
 	--color-slateSecondary-200: #bfad92;
 	--color-slateSecondary-300: #a38861;
 	--color-slateSecondary-400: #876431;
-	--color-slateSecondary-500: #72490d;
+	--color-slateSecondary-500: #8c2d2c;
 	--color-slateSecondary-600: #4f3309;
 	--color-slateSecondary-700: #392406;
 	--color-slateSecondary-800: #221503;
@@ -85,7 +85,8 @@
 	--color-slateNeutral-700: #48505c;
 	--color-slateNeutral-800: #2b3037;
 	--color-slateNeutral-900: #15181b;
-	--color-slateNeutral-950: #0b0c0e;}
+	--color-slateNeutral-950: #0b0c0e;
+}
 
 :root {
 	--ui-primary: var(--ui-color-primary-500);

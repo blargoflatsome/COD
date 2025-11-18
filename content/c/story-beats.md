@@ -2,29 +2,47 @@
 
 > This is an experimental leveling system and is subject to change during play.
 
-Story Beats are little milestones in your character's story, and advancement is simple: you choose two personal and one party Story Beat at the end of each session (and at character creation). If you trigger the circumstances of each beat, you gain XP. Once you've hit a given beat you can't choose it again. Two players may not take the same Story Beat at the same time. A beat that hasn't been achieved can be abandoned at the end of a session and replaced or kept for the next session.
+## How it works
+Story Beats are little milestones in your character's story, and advancement is simple: 
 
-When picking Story Beats, remember your desperation; the DM will consider how your Story Beats bring you closer to achieving it.
+you choose **2 Basic**, **1 Advanced** and as a group you pick **1 Party** Story Beat at the end of each session (and at character creation). If you trigger the circumstances of a Story Beat during play, you gain XP!
 
-Story Beats are broken down by character archetype just to help with organization. You can pick a goal from any list.
+### Be Aware That...
+- Once you've acheived a given Story Beat you can't choose it again.
+- Two players may not take the same Story Beat at the same time. 
+- A beat that hasn't been achieved may be abandoned at the end of a session and replaced or kept for the next session.
+- You will never have more than 2 Basic, 1 Advanced, and 1 Party Beat active at any time.
 
-Take your time and look over the list, as you may find Story Beats that fit well together to accomplish at the same time or Story Beats you can do now that will open opportunities to accomplish bigger ones later.
+> **Important**: 
+> you only get credit for accomplishing active Story Beats. So if you get cursed but don't have "get cursed" as a Story Beat, you don't get credit.
 
+### XP
+- 2 basic = 1 XP  
+- 1 advanced = 1 XP  
+- 1 party = 1 XP each  
+- 6 XP = 1 level
+
+> **Important**:
+> Remember your desperation; Story Beats bring you closer to acheiving your Desperation. They will be interpreted by the DM in that context.
+
+### Extra Details
 My goal is to keep each of you roughly the same level, so this system also allows me to see who to focus on and ensure I'm not ignoring anyone as I try to provide each of you opportunities to complete your goals.
 
-The party goals are another way to ensure everyone is gaining XP, but they also keep you all on the same page with what you are ultimately trying to do. They also give each of you clear ways to betray the party to accomplish personal goals. Normally you might be tempted to feel bad about that, but nobody can fault a player for going for XP. Just be prepared to deal with the in-character consequences.
+The party goals are another way to ensure everyone is gaining XP. They also keep you all on the same page with what you are ultimately trying to do. They may even give each of you clear ways to betray the party in order to accomplish personal goals. 
 
-> Important note: you only get credit for accomplishing active Story Beats. So if you get cursed but don't have "get cursed" as a Story Beat, you don't get credit.
+### A Note on Player v.S. Player
+Normally you might be tempted to feel bad about working against the party, but nobody can fault a player for gaining XP. Just be prepared to deal with the in-character consequences. The other players may not hold it against you, but their character will.
 
-> - 2 basic goals = 1 XP  
-> - 1 advanced goal = 1 XP  
-> - 1 party goal = 1 XP each  
-> 4 XP = 1 level
+PVP is allowed so long as it is fun and fits the story. Killing a fellow party member is lazy and not fun. Earning your own XP by getting tricky revenge on a fellow player is fun.
 
-> The presented Story Beats are examples. If you think of something not listed, present it to the DM for approval. I have attempted to create a balanced list of good, indifferent, and evil Story Beats.
+## Picking Story Beats
+Story Beats are broken down by character archetype just to help with organization. You can pick them from any list. Take your time and look over each list. You may find Story Beats that fit well together or Story Beats you can do now that will open opportunities to accomplish others later.
 
-## Basic Personal
-Basic personal goals are intended to be easier goals you can accomplish in a session or two.
+> Disclaimer: The presented Story Beats are merely examples. If you think of something not listed, or wish to modify one, present it to the DM for approval. Especially as you get to know your character and their personal story better.
+
+::Tabs{tabs="Basic, Advanced, Player"}
+#tab-0
+## Basic Personal Story Beats
 
 ### General
 
@@ -167,8 +185,9 @@ Basic personal goals are intended to be easier goals you can accomplish in a ses
 23. Perform an act you loathe to satisfy duty: you do something distasteful to repay a debt or fulfill an obligation, knowing it diminishes you.
 24. Face a minor haunting of your past actions.
 
-## Advanced Personal Goals
-Advanced goals are larger goals you have to work toward over time. It is never too early to work toward a goal; just be sure to select it as your goal before you accomplish it.
+#tab-1
+## Advanced Personal Story Beats
+Advanced Story Beats are larger goals you may have to work toward over time. It is never too early to work toward a goal even if its not an active Story Beat; just be sure to select it as your goal before you accomplish it.
 
 ### General
 
@@ -246,50 +265,52 @@ Advanced goals are larger goals you have to work toward over time. It is never t
 9. Allow a curse—lingering, viral, psychic, or subterranean—to cling to you instead of someone else. The curse must meaningfully constrain or transform you.
 10. Destroy a part of yourself to prove your change. This can be physical (a scarification, a ritual amputation), social (burning your reputation), or metaphysical (severing a bond, surrendering a gift). The act must permanently change you or your capabilities.
 
+#tab-2
 ## Party
-Party Story Beats are actions you take as a group. Accomplishing a party Story Beat will earn everyone in the party 1 XP.
+Party Story Beats are goals you work toward as a group. Accomplishing a party Story Beat will earn everyone in the party 1 XP.
 
-1. **Share knowledge**: discover ancient wisdom and share it freely rather than hoarding it.
-2. **Defend the weak**: stand against oppression or injustice when others are afraid to act.
-3. **Corrupt a power source**: harness forbidden magic or a cursed artifact knowingly.
-4. **Redeem a villain**: convince a former enemy to change sides or seek forgiveness.
-5. **End a cycle of violence**: find a peaceful solution to a generational feud.
-6. **Sacrifice a friend**: trade an ally's life for power or expedience.
-7. **Choose mercy over revenge**: spare an enemy when vengeance would be easy.
-8. **Restore the land**: heal a blighted forest, cleanse a cursed lake, or rebuild a ruined town.
-9. **Dominate the world**: attempt to control or enslave others "for their own good."
-10. **Slaughter the innocent**: harm bystanders or captives to make a point or take revenge.
-11. **Unite the party**: resolve internal conflicts and reaffirm shared values.
-12. **Seize power unjustly**: overthrow a ruler or organization for selfish reasons.
-13. **Manipulate the weak**: use charm or magic to exploit innocent people.
-14. **Inspire hope**: your actions spark courage in the common folk.
-15. **Abandon the helpless**: ignore a plea for help to save time or treasure.
-16. **Corrupt nature**: poison the land or exploit magical creatures without remorse.
-17. **Atonement quest**: a party member faces their past wrongs through action or sacrifice.
-18. **Silence the truth**: kill or threaten those who would expose your deeds.
-19. **Destroy knowledge**: burn libraries, silence witnesses, or erase history.
-20. **Save a life at a cost**: choose compassion even when it endangers the mission.
-21. **Form an alliance**: unite rival factions or clans toward a shared goal.
-22. **Betray an ally**: turn on someone who trusted the party for personal gain.
-23. **Create a monster**: experiment or summon something that causes great harm.
-24. **Rebuild trust**: repair a broken relationship within the party or with an NPC.
-25. **Create a legacy**: found a school, guild, temple, or sanctuary that outlives the heroes.
-26. **Sacrifice for the greater good**: give up personal power or treasure to prevent harm.
-27. **Rescue the innocent**: save a group of villagers, hostages, or lost travelers.
-28. **Desecrate the sacred**: destroy a temple, shrine, or symbol of faith.
-29. **Blame the victim**: justify atrocities or shift guilt to the powerless.
-30. **Fall to darkness**: fully embrace a dark god, cursed artifact, or evil destiny.
-31. **Break an oath**: betray a promise, pact, or code of honor for convenience.
-32. **Defy corruption**: refuse a tempting deal or reward that would betray your ideals.
-33. **Steal from the needy**: rob a poor village or defenseless traveler.
-34. **Protect nature**: stop exploitation of a natural resource or a sentient creature's habitat.
-35. **Bring peace to spirits**: help restless souls find rest or forgiveness.
-36. **Take joy in cruelty**: harm others for amusement or dominance.
-37. **Spread fear**: use intimidation or violence to control others.
-38. **Empower the voiceless**: champion a marginalized group or stand up to tyranny.
-39. **Break a curse**: lift a magical or emotional curse from a person or place.
-40. **Reject redemption**: refuse a chance to make amends after wrongdoing.
-41. **Perform a ritual of hope that requires every voice**: a powerful benevolent rite needs multiple perspectives, emotions, or memories.
-42. **Heal a wounded entity too large for one person to mend**: a colossal beast, ancient guardian, or living structure is suffering; it can only be healed if each party member addresses a different aspect of the wound—physical, spiritual, emotional, or metaphysical.
-43. **Create something beautiful in a place that knows only ruin**: together, the party builds, paints, grows, or summons something uplifting.
-44. **Stand against a god and refuse to break**: a deity, conceptual titan, or impossible intelligence confronts you; each delver must resist in a different way.
+1. **Defend the weak**: stand against oppression or injustice when others are afraid to act.
+2. **Corrupt a power source**: harness forbidden magic or a cursed artifact knowingly.
+3. **Redeem a villain**: convince a former enemy to change sides or seek forgiveness.
+4. **End a cycle of violence**: find a peaceful solution to a generational feud.
+5. **Sacrifice a friend**: trade an ally's life for power or expedience.
+6. **Choose mercy over revenge**: spare an enemy when vengeance would be easy.
+7. **Restore the land**: heal a blighted forest, cleanse a cursed lake, or rebuild a ruined town.
+8. **Dominate Others**: attempt to control or enslave others "for their own good."
+9.  **Slaughter the innocent**: harm bystanders or captives to make a point or take revenge.
+10. **Unite the party**: resolve internal conflicts and reaffirm shared values.
+11. **Seize power unjustly**: overthrow a ruler or organization for selfish reasons.
+12. **Manipulate the weak**: use charm or magic to exploit innocent people.
+13. **Inspire hope**: your actions spark courage in the common folk.
+14. **Abandon the helpless**: ignore a plea for help to save time or treasure.
+15. **Corrupt nature**: poison the land or exploit magical creatures without remorse.
+16. **Atonement quest**: a party member faces their past wrongs through action or sacrifice.
+17. **Silence the truth**: kill or threaten those who would expose your deeds.
+18. **Destroy knowledge**: burn libraries, silence witnesses, or erase history.
+19. **Save a life at a cost**: choose compassion even when it endangers the mission.
+20. **Form an alliance**: unite rival factions or clans toward a shared goal.
+21. **Betray an ally**: turn on someone who trusted the party for personal gain.
+22. **Create a monster**: experiment or summon something that causes great harm.
+23. **Rebuild trust**: repair a broken relationship within the party or with an NPC.
+24. **Create a legacy**: found a school, guild, temple, or sanctuary that outlives the heroes.
+25. **Sacrifice for the greater good**: give up personal power or treasure to prevent harm.
+26. **Rescue the innocent**: save a group of villagers, hostages, or lost travelers.
+27. **Desecrate the sacred**: destroy a temple, shrine, or symbol of faith.
+28. **Blame the victim**: justify atrocities or shift guilt to the powerless.
+29. **Fall to darkness**: fully embrace a dark god, cursed artifact, or evil destiny.
+30. **Break an oath**: betray a promise, pact, or code of honor for convenience.
+31. **Defy corruption**: refuse a tempting deal or reward that would betray your ideals.
+32. **Steal from the needy**: rob a poor village or defenseless traveler.
+33. **Protect nature**: stop exploitation of a natural resource or a sentient creature's habitat.
+34. **Bring peace to spirits**: help restless souls find rest or forgiveness.
+35. **Take joy in cruelty**: harm others for amusement or dominance.
+36. **Spread fear**: use intimidation or violence to control others.
+37. **Empower the voiceless**: champion a marginalized group or stand up to tyranny.
+38. **Break a curse**: lift a magical or emotional curse from a person or place.
+39. **Reject redemption**: refuse a chance to make amends after wrongdoing.
+40. **Perform a ritual of hope that requires every voice**: a powerful benevolent rite needs multiple perspectives, emotions, or memories.
+41. **Heal a wounded entity too large for one person to mend**: a colossal beast, ancient guardian, or living structure is suffering; it can only be healed if each party member addresses a different aspect of the wound—physical, spiritual, emotional, or metaphysical.
+42. **Create something beautiful in a place that knows only ruin**: together, the party builds, paints, grows, or summons something uplifting.
+43. **Stand against a god and refuse to break**: a deity, conceptual titan, or impossible intelligence confronts you; each delver must resist in a different way.
+
+::
