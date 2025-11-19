@@ -40,8 +40,7 @@ Story Beats are broken down by character archetype just to help with organizatio
 
 > Disclaimer: The presented Story Beats are merely examples. If you think of something not listed, or wish to modify one, present it to the DM for approval. Especially as you get to know your character and their personal story better.
 
-
-::Tabs{tabs="Basic, Advanced, Player"}
+::Tabz{tabs="Basic, Advanced, Player"}
 #tab-0
 ## Basic Personal Story Beats
 
