@@ -11,7 +11,7 @@ You may never have more than 5 Inspiration at a time.
 You will gain it pretty frequently so do not be afraid to use it.
 
 ### By the book
-You may expend it to reroll any die immediately after **you** rolling it, then you must use the new roll.
+You may expend it to reroll any die immediately after **you** rolled it, then you must use the new roll.
 
 ### Despair System
 During a long rest an Inspiration may be spent to remove 1 level of Despair.
