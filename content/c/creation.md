@@ -104,3 +104,4 @@ You will pick real world languages.
 - Welsh
 - Hebrew
 - Persian
+- Hawaiian
