@@ -1,9 +1,9 @@
 <template>
-  <div v-if="showButton" class="back-to-top" @click="scrollToTop">
+  <button type="button" v-if="showButton" class="back-to-top" aria-label="back to top" @click="scrollToTop">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
       <path d="M12 2L6 8h4v12h4V8h4L12 2z"/>
     </svg>
-  </div>
+  </button>
 </template>
 
 <script setup lang="ts">
@@ -36,7 +36,7 @@ onUnmounted(() => {
   position: fixed;
   bottom: 20px;
   right: 20px;
-  background-color: #007bff; /* Example background color */
+  background-color: #7e0208; /* Example background color */
   color: white;
   border-radius: 50%;
   width: 50px;
