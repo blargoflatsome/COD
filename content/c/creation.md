@@ -86,3 +86,21 @@ Choose **up to 3 modern items** that make sense for your character’s backstory
 
 ## Picking a Species
 You may be a D&D race outside of Human, but this change will take place once to enter the Catacombs. The idea being that your race would reflect some aspect of who you are or how you truly see yourself. This could be subconsciously and understanding why you appear as that race could be part of your self discovery.
+
+## Languages
+You will pick real world languages.
+
+**Examples**
+- Latin
+- spanish
+- Scots Gaelic
+- Irish Gealic
+- Romani
+- German
+- French
+- Arabic
+- Norwegian
+- Finnish
+- Welsh
+- Hebrew
+- Persian
