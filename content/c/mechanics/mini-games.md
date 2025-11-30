@@ -1,6 +1,16 @@
+## Cheating
+Gain Advantage on any roll if you can find a way to cheat.
+
+---
+
 ## Arm Wrestle
 - Each contestant rolls a d20 and adds their Strength modifier.
 - Highest total wins.
+
+---
+
+## Darts:
+Roll 3 Dex Check. The closest grouping wins. You get 1 reroll per 2 Dex Bonus.
 
 ---
 
@@ -9,11 +19,11 @@ Objective: reach 20 points without falling unconscious or vomiting.
 
 | Drink | DC | Points |
 | --- | ---: | ---: |
-| Light-hearted | 10 | 1 |
-| Bull’s Blood | 14 | 2 |
-| Frosty Heart | 17 | 3 |
-| Carnage | 20 | 4 |
-| Trolls Blood | 23 | 5 |
+| Ale | 10 | 1 |
+| Liquor | 14 | 2 |
+| Moonshine | 17 | 3 |
+| Dwarven Ale | 20 | 4 |
+| Goblin's Hootch | 23 | 5 |
 
 **Rules:**
 - Each drink requires a Constitution saving throw against the listed DC.

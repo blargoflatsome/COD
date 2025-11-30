@@ -25,7 +25,7 @@ export default defineAppConfig({
     },  
     contentToc: {
       slots: {
-        root: 'lg:fixed lg:top-0 lg:right-20 z-10 bg-default/75 lg:bg-[initial] backdrop-blur -mx-4 px-4 sm:px-6 sm:-mx-6 overflow-y-auto max-h-[calc(100vh-var(--ui-header-height))]',
+        root: 'lg:fixed lg:top-0 lg:right-20 z-10 bg-default/75 lg:bg-[initial] backdrop-blur -mx-4 px-4 sm:px-6 sm:-mx-6 overflow-y-auto max-h-[calc(100dvh-2rem)]',
         title: 'text-white lg:hidden',
        },
     },

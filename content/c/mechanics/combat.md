@@ -5,8 +5,6 @@ Homebrew mechanics are labeled with **(HB)**
 
 Each option below counts as **one attack** when you can make multiple attacks.  
 
----
-
 ### Attack with a Flourish (HB)
 `Skill check (DC 10+)` to gain Advantage on next attack vs same target.
 
@@ -79,6 +77,8 @@ Applying manacles during grapple = **Disadvantage** on grapple checks.
 - **Pick:** DC 15 Dex (Thieves’ Tools)  
 - **Destroy:** 15 HP
 
+---
+
 ## Full Actions
 These options take your full Action and can be used instead of Attack Actions.
 
@@ -114,6 +114,8 @@ Give an ally **Advantage** on the next roll using a skill/tool you're proficient
 #### Assist an Attack
 Distract an enemy within 5 ft.  
 Next attack by an ally vs that enemy has **Advantage**.
+
+---
 
 ## Misc Combat Rules
 
@@ -199,8 +201,8 @@ That extra attack must be made with a **different Light weapon**, and you don't 
 
 ---
 
-### Arena Fights (Mini Game) (HB)
-#### Favor Of The Crowd
+## Arena Fights (Mini Game) (HB)
+### Favor Of The Crowd
 Only one fighter can have the Favor of the Crowd at a time. When Favor is earned it may be spent as described below but the crowds are fickle. Anytime a fighter does something to earn Favor they take it from whomever currently has it.
 
 **Spend Favor**
@@ -213,14 +215,14 @@ Only one fighter can have the Favor of the Crowd at a time. When Favor is earned
 - Excite the Crowd
   - You may use the Favor of the Crowd to change the Attitude of the Crowd from Indifferent to Hostile or Hostile to Friendly.
 
-#### Sway The Crowd
+### Sway The Crowd
 Party members not involved in the Combat may attempt to sway the Attitude of the Crowd in your favor by making a Charisma (Performance) check against a DC set by the crowd's current attitude toward you. They roll with Advantage if you have the Favor of the Crowd currently.
 
 - DC 20 to go from Indifferent to Friendly
 - DC 15 to go from Indifferent to Hostile
 - DC 10 to go from Hostile to Friendly
   
-#### Gaining Favor
+### Gaining Favor
 - Scoring a Critical Hit on an opponent 
 - Dropping a foe to 0 hit points with an attack.
 - Performance. Spend 1 Action to make a Charisma (Performance) check against a DC set by the crowd's attitude toward you.
