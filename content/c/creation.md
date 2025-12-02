@@ -70,7 +70,7 @@ What are you so desperate to accomplish that you would risk descending into the 
   Hired to erase evidence of past expeditions—bodies, journals, and signs of what truly happened.
 - **Blackmailed Into It**  
   Someone holds a dangerous secret over them and demands they retrieve something from the depths.
-- **Sold Into the Catacombs**  
+- **Sold Into the Catacombs**
   A noble or creditor literally traded them as payment; someone inside owns their fate.
 
 ### Madness
