@@ -15,6 +15,11 @@ What are you so desperate to accomplish that you would risk descending into the 
   They have hunted everything on land and sea and now crave the ultimate rush: hunting the greatest monsters beneath the earth.
 - **Proving Superiority**  
   They believe most people are weak, and delving into the Catacombs is how they prove they are fundamentally above lesser mortals—alive or dead.
+- **To Escape a Terminal Diagnosis**
+  They are dying.
+  Cancer, organ failure, a degenerative disease—something the modern world cannot stop.
+  They can spend their last months in a hospital bed… or walk into the Heart and see whether something deeper beneath reality can rewrite their fate.
+  Either way, they die on their terms.
 
 ### Exploration / Knowledge
 - **Mapping the Dead World**  
@@ -23,6 +28,9 @@ What are you so desperate to accomplish that you would risk descending into the 
   They seek proof of an ancient, advanced culture that predates recorded history, and the Catacombs are their last solid lead.
 - **Harvesting Forbidden Anatomy**  
   They want to dissect ancient undead or aberrations, seeking grotesque biological secrets or materials for forbidden experiments.
+- **To Cure the Uncurable**
+  Someone they love—child, partner, sibling—is dying of a terminal illness. Modern medicine has failed.
+  They descend hoping to return with the cure… or failing that, to die trying so their loved one doesn’t have to watch them fail again.
 
 ### Loss / Pursuit
 - **Dragging Back What Should Stay Dead**  
@@ -31,6 +39,11 @@ What are you so desperate to accomplish that you would risk descending into the 
   A traveling companion was abducted by cultists who retreated underground; they are here to bring them back or die trying.
 - **Hungry for the Soul of Their Betrayer**  
   They pursue the spirit of someone who wronged them—not for closure, but to consume or bind it.
+- **To Fulfill a Vow They Cannot Break**
+  A promise they made—a deathbed vow, a sacred oath, a pact between friends—cannot be honored in the mundane world. They go below to keep a promise that would otherwise die with them.
+- **To Find Meaning After Losing Everything**
+  A life collapse—divorce, bankruptcy, a ruined reputation, a career destroyed—has left them with nothing. If they die in the Catacombs, at least their life ends in pursuit of something larger than themselves.
+  
 
 ### Penitence
 - **Seeking Punishment**  
@@ -39,6 +52,8 @@ What are you so desperate to accomplish that you would risk descending into the 
   A spiritual authority has sent them below to retrieve a relic or perform a sacred rite as penance.
 - **Self-Flagellation Through Horror**  
   They descend not for redemption but to accumulate suffering, equating agony with spiritual purification.
+- **To Undo a Personal Catastrophe**
+  They descend seeking the impossible: forgiveness.
 
 ### Meaning / Occult / Religion
 - **Wants to Birth a New God**  
@@ -47,6 +62,8 @@ What are you so desperate to accomplish that you would risk descending into the 
   They believe enlightenment lies in decay, rot, and corruption, and the Catacombs are the crucible for their transformation.
 - **Searching for the First Saint / First Monster**  
   Legends say the Catacombs house the remains of a primordial being—saint, monster, or both. They seek contact, relics, or truth.
+- **To End Their Life in a Place That Gives Their Death Meaning**
+  They want their death to matter to the world—or at least to themselves.
 
 ### Forced / Employed
 - **Disposable Cleaner**  
@@ -63,6 +80,10 @@ What are you so desperate to accomplish that you would risk descending into the 
   They dream nightly of a door in the Catacombs—each dream clearer and closer—and can no longer ignore it.
 - **Convinced They Are a Reincarnated Ancient**  
   They believe they once lived within the Catacombs in a past life and are desperately trying to return “home.”
+- **To Stop a Prophetic Catastrophe Only They Believe**
+  They’ve seen visions—dreams, hallucinations, or messages from something they don’t understand—showing a disaster approaching the real world.
+  No one believes them.
+  But the source of the visions lies deeper. They descend to confront it, bargain with it, or kill it.
 
 ### Revenge
 - **Hunting the Monster That Took Everything**  
