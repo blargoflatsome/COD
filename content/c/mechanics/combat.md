@@ -1,6 +1,12 @@
 The following are rule clarifications, homebrew, and often looked up combat options.
 Homebrew mechanics are labeled with **(HB)**
 
+## Initiative Variant
+1) Each player and NPC rolls Initiative per usual.
+2) This determines Ally Actions vs Enemy Actions.
+3) Any player/Ally may act during an Ally Action, but none may act more than once during a round. (unless a special ability allows it.)
+4) Any Enemy may act during a Enemy Action, but none may act more than once during a round. (unless a special ability allows it.)
+
 ## Attack Action Options
 
 Each option below counts as **one attack** when you can make multiple attacks.  
