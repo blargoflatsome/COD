@@ -126,3 +126,6 @@ You will pick real world languages.
 - Hebrew
 - Persian
 - Hawaiian
+
+## Character Death
+Because many of you are very new to D&D a rule I like to have in play is this: If your character is killed per the rules prior to level 3. You will instead suffer a permanent wound or scar of some kind appropriate to the way you died - but survive your injuries. Once you reach level 3 this will no longer be an option.
