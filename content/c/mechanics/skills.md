@@ -1,12 +1,15 @@
 ## Helping
-One player may aid another player making a skill check. This gives the player making the check Advantage. The assisting player may use the same skill or a different skill they are **proficient** in so long as they can justify how it would help. 
+One player may aid another player making a skill check. This gives the player making the check Advantage. The assisting player may use the same skill or a different skill they are **proficient** in so long as they can justify how it would help.
+
 **Example**
+
 A player proficient in Deception may attempt to aid a player making a Persuade skill check by using their skill in lying to quickly back up the player persuading. Providing cover stories should their attempt draw scrutiny they were unprepare for. Alternatively a player who is also proficient in Persuasion may just help lay it on thick.
 
 ## Critical Success or Failure
 Per the book Crits/Fumbles do not impact skill checks. That is lame. If you do not have any chance to succeed, I simply won't let you roll for it. If I DO allow a roll then a Crit will succeed and a Fumble will fail. Often spectacularly.
 
 ## Taking Your Time
+
 ### Taking a Ten
 If you have at least 10 minutes to attempt a task, you can simply take the time and add 10 to your Skill instead of rolling.
 
@@ -28,13 +31,17 @@ A skill check has failed and there is not time for another player to **Try Again
 
 ## Target Success/Failures
 A difficult action is being attempted. A target number of successes is set and the player will continue making skill checks until they acheive that target number. Optionally a failure counter can also be set, where if they fail a number of times before succeeding a number of times the challenge is lost.
+
 **Example**
+
 - A Rogue is trying to crack a safe. They must succeed at 3 sleight of hand checks before they fail twice or the alarm goes off.
 - A player is swimming against the current of a river, they must succeed at 2 athletics checks to reach the other side. Their first failure will result in exhaustion. A second failure will result in being swept away.
 
 ## Progression Clock
 The players are, as a group, trying to complete a complex action. The DM sets the "counter" and the conditions that will cause the clock to tick forward. Such as a failed Skill Checks, or any d20 roll. The players then must complete their business before the clock runs out.
+
 **Example**
+
 - Sneaking into a facility. The clock is the security system with every failed roll raising the alarm until the facility becomes aware and on high alert. A player may cast spells or take actions that ensure another player gains advantage on their skill roll. One player may use stealth to get the party past a sleeping guard and fail, the clock moves forward as the guard wakes up. Now the players need to deal with this situation. Perhaps they succeed at deception or persuasion, or knock the guard out. They all roll stealth, one of them fails. The clock moves forward as the noise catches attention deeper in the facility. It is a race between the clock and the challenges to obtain their objective.
 - A ritual is being cast, each round draws it close to success. The players only have a certain amount of rounds (or actions) to stop the ritual.
 
