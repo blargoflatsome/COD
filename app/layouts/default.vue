@@ -3,7 +3,7 @@
     <template #title>Catacombs of Despair</template>
 		
 		<template #body>
-      <UContentNavigation :navigation="fullNavigation" :default-open="false"  highlight variant="pill" />
+      <UContentNavigation :navigation="fullNavigation" :default-open="false"  highlight variant="pill" class="capitalize" />
     </template>
   </UHeader>
 
