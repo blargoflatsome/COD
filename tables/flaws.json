@@ -109,7 +109,7 @@
             "id": 9,
             "name": "Broken Bonds",
             "permanent": true,
-            "description": "One of your Allies either dies or becomes a Nemesis."
+            "description": "One of your NPC Allies either dies or becomes a Nemesis."
         },
         {
             "id": 10,
@@ -157,7 +157,7 @@
             "id": 17,
             "name": "Lure of Darkness",
             "permanent": true,
-            "description": "You become obsessed with a location and take 1 level of Exhaustion every long rest where you have not grown closer to that location."
+            "description": "You become obsessed with a location and take 1 level of Exhaustion every long rest where you have not grown closer to that location. This effect ends when you reach that location."
         },
         {
             "id": 18,
@@ -212,6 +212,48 @@
             "name": "Emotionally Hollow",
             "permanent": false,
             "description": "The character struggles to connect with allies; extreme joy or sadness feels muted or absent. Disadvantage on Persuasion and Deception checks."
+        },
+        {
+            "id": 27,
+            "name": "Familiarity of Deja Vu",
+            "permanent": false,
+            "description": "Suddenly this all feels very familiar, like you have been and done all of this before."
+        },
+        {
+            "id": 28,
+            "name": "Deferred Panic",
+            "permanent": false,
+            "description": "You are immune to fear effects until your next long rest, but if you would have failed a fear check during that time - you must make a DC 15 Wisdom saving throw or gain one level of exhaustion as the panic hits you all at once."
+        },
+        {
+            "id": 29,
+            "name": "Charmed Life Complex",
+            "permanent": false,
+            "description": "After everything you have survived you become reckless. You believe that nothing bad can happen to you."
+        },
+        {
+            "id": 30,
+            "name": "Anchoring Obsession",
+            "permanent": false,
+            "description": "You cling to one stabilizing habit. A repeated action—cleaning gear, counting steps, humming—becomes mandatory in times of stress."
+        },
+        {
+            "id": 31,
+            "name": "Outsider Syndrome",
+            "permanent": false,
+            "description": "You speak of yourself in the third person. Reality is something you must keep at a distance and you find this helps."
+        },
+        {
+            "id": 32,
+            "name": "Almost There",
+            "permanent": false,
+            "description": "You are convinced resolution is imminent.You downplay danger because it would be absurd to die now."
+        },
+        {
+            "id": 33,
+            "name": "Echo Attachment",
+            "permanent": false,
+            "description": "You treat an NPC, monster, or location as substitute for something you lost. You avoid confronting how inaccurate the substitute is. You will go to dangerous lengths to keep the substitute close."
         }
     ]
 }
