@@ -47,32 +47,33 @@ Story Beats are broken down by character archetype just to help with organizatio
 ### General
 
 1. Make death saves (and survive).
-2. Charm someone with tales of your exploits.
-3. Engage in reckless abandon with drink, drugs, or sex.
+2. **Charm someone with tales of your exploits.**
+3. **Engage in reckless abandon with drink, drugs, or sex.**
 4. Slay a beast of CR 1 or higher.
 5. Access a haven in Tier 2 of the Heart.
 6. Defeat a powerful foe one-on-one.
 7. Help an important or influential figure.
 8. Refuse to back down when it would be beneficial to do so.
-9. Establish a bond.
+9. **Establish a bond.**
 10. Get in trouble with the law.
-11. Rescue someone from peril.
+11. **Rescue someone from peril.**
 12. Make a dramatic entrance that's a risky action.
 13. Claim a resource from a dangerous location.
 14. Defend a haven from attack.
-15. Have at least three havens know your name, for good or ill.
+15. **Save a haven from destruction or doom.**
 16. Help someone who later disappears.
 17. Rush into danger before anyone else.
-18. Have a cocktail, fighting move, or legendary beast named after you.
+18. **Have a cocktail, fighting move, or legendary beast named after you.**
 19. Go somewhere where no one else has stepped foot for at least a century.
 20. Win an unarmed brawl.
-21. Kick someone off a tall structure.
-22. Accept help from an enemy.
+21. **Kick someone off a tall structure.**
+22. **Accept help from an enemy.**
 23. Forgive someone who expected your hatred.
 24. Prove that even here, kindness has power. Through a small but meaningful gesture—sharing supplies, comforting the grieving, helping the injured—you remind someone that gentleness is still possible down here.
 25. Lose something important in a moment of panic.
 26. Realize someone or something has been watching you; it studies you—patient, silent, maybe curious.
-27. Forge a friendship or romantic relationship with an NPC.
+27. **Forge a friendship or romantic relationship with an NPC.**
+28. Successfully perform a dangerous action that saves the day.
 
 ### Knowledge
 
@@ -84,11 +85,11 @@ Story Beats are broken down by character archetype just to help with organizatio
 6. Discover a shortcut that shouldn't exist; using it will get you to the next landmark unhurt, but something about it feels wrong.
 7. Sell or sacrifice an important resource to secure a secret.
 8. Reach a landmark on Tier 3.
-9. Find a helpful book of lore.
-10. Learn a rite (homebrew; see terminology).
-11. Learn a local's story that helps you better understand the area or the active party goal.
-12. Succeed at a task that someone else has recently failed to achieve.
-13. Acquire an NPC bond who has access to useful information.
+9. Understand a monster enough to heal them physically without magic.
+10. Find a helpful book of lore.
+11. Learn a rite (homebrew; see terminology).
+12. Learn a local's story that helps you better understand the area or the active party goal.
+13. Succeed at a task that someone else has recently failed to achieve.
 14. Discover an established and safe route to a new landmark.
 15. Flee from combat or a similarly dangerous situation, or hide until it all blows over.
 16. Meet someone from your old life who's trying to get you to give up on your quest.
@@ -96,13 +97,13 @@ Story Beats are broken down by character archetype just to help with organizatio
 18. Study and learn something about a creature that helps keep you safe from them.
 19. Buy some cutting-edge, experimental, or finely made equipment and use it.
 20. Recognize a cultural tradition that helps you improve relations with a faction.
-21. Learn how someone died here: you uncover evidence of a past tragedy—bones, notes, memories, or echoes that tell a grim story.
-22. Understand a creature's weakness; you learn something that helps the party—but only because you watched the creature suffer.
+21. Learn how someone died here: you uncover evidence of a past tragedy — bones, notes, memories, or echoes that tell a grim story.
+22. Understand a creature's weakness; you learn something that helps the party — but only because you watched the creature suffer.
 23. Realize a haven survives because of a lie; your investigation reveals the truth behind a local comfort or myth. You must choose whether to keep it secret.
 24. Learn a hidden shortcut with risks; you find a faster path to a landmark, but it's unstable, dangerous, or ethically questionable to use.
 25. Add a new spell to your spellbook (wizards) or find a spell scroll (everyone else).
-26. Curse a disease.
-27. Reveal a truth that causes harm.
+26. Cure a disease.
+27. Steal a tomb of lore for no reason other than aquiring knowledge.
 
 ### Forced/Employed
 
@@ -126,7 +127,6 @@ Story Beats are broken down by character archetype just to help with organizatio
 18. Use your position to prevent unnecessary harm.
 19. Do a rush job at the cost of time.
 20. Earn respect through compassion, not efficiency. Someone you work for or with softens toward you because of a kind act you performed while on duty.
-21. Learn something you weren't supposed to know about your masters or their plans. During routine work, you overhear or discover a secret that puts you at risk. Your employer would not want you talking.
 22. Discover you are replaceable in a way that terrifies you.
 23. Fail at or refuse an assigned task.
 
@@ -137,15 +137,15 @@ Story Beats are broken down by character archetype just to help with organizatio
 3. Sacrifice something you love to the occult.
 4. Allow something dangerous of the occult to live when you could have killed it.
 5. Let your curiosity lead you into danger.
-6. Undergo a trance-like vision that lasts for hours.
+6. Undergo a trance-like vision that lasts for 2 hours.
 7. Communicate with something occult.
-8. Witness an emissary of a cult.
-9. Receive insight from a witch or something stranger still.
+8. Witness an emissary of despair.
+9. Receive insight from a witch or something even stranger.
 10. Gain information on why you have been chosen by an occult entity.
 11. Receive a strange surgical implant.
 12. Build a shrine to the occult somewhere important.
 13. Terrify or intrigue an NPC with your obsession.
-14. Perform an act of service to an NPC witch.
+14. Perform an act of service to an NPC occult figure.
 15. Shelter someone touched by the occult from persecution.
 16. Become cursed.
 17. Consume something that should not be eaten: you must devour an occult substance—ink, spoiled magic, someone's shadow, a memory, a parasite—and survive the transformation it inflicts.
@@ -154,8 +154,8 @@ Story Beats are broken down by character archetype just to help with organizatio
 20. Sacrifice innocence to gain insight; you willingly end something pure.
 21. Learn a small, helpful rite from a harmless spirit.
 22. Witness an occult phenomenon that inspires wonder, not terror.
-23. Use a rite or spell to bring comfort rather than harm.
-24. Join a cult.
+23. Use a rite or spell to bring emotional comfort rather than harm.
+24. Join an occult faction.
 25. Perform a minor pact or offering: you perform a small ritual or offer something to a local entity.
 
 ### Penitence
@@ -165,13 +165,13 @@ Story Beats are broken down by character archetype just to help with organizatio
 3. De-escalate a situation that would have led to bloodshed.
 4. Spare someone's life.
 5. Do something dangerous to conceal your past.
-6. Punish an NPC for wrongdoing.
+6. Punish an NPC for wrong doing.
 7. Meet an NPC who hates you for what you've done.
 8. Bring bodily harm to those who stand against your party.
 9. Sabotage the assets of those who stand against your party.
 10. Witness firsthand the tragic extent of your failings.
 11. Donate needed supplies.
-12. Put yourself in great danger to protect your companions.
+12. **Put yourself in great danger to protect your companions.**
 13. Make reparations to an NPC that you have personally wronged.
 14. Repeat a past mistake.
 15. Rescue an NPC.
@@ -192,18 +192,17 @@ Advanced Story Beats are larger goals you may have to work toward over time. It 
 ### General
 
 1. Have a landmark named after you.
-2. Successfully perform a dangerous action that saves the day.
-3. Acquire a rare or powerful item, preferably magic.
-4. Slay a beast that's at least five times your size (CR +5).
-5. Save a haven from destruction or doom.
-6. Explore a mysterious tower.
-7. Witness a moment that permanently breaks your faith in something.
-8. Choose who lives and who is left behind.
-9. Perform a mercy that feels like murder.
-10. Fail to save someone who trusted you.
-11. Bring light to a place that has forgotten it.
-12. Save someone who absolutely shouldn't have survived.
-13. Uncover a hidden conspiracy.
+2. **Acquire a rare or powerful item, preferably magic.**
+3. Slay a beast that's at least five times your size (CR +5).
+4. **Have at least three havens know your name, for good or ill.**
+5. **Explore a mysterious tower.**
+6. Witness a moment that permanently breaks your faith in something.
+7. Choose who lives and who is left behind.
+8.  **Perform a mercy that feels like murder.**
+9.  Fail to save someone who trusted you.
+10. Bring light to a place that has forgotten it.
+11. **Save someone who absolutely shouldn't have survived.**
+12. Uncover a hidden conspiracy.
 
 ### Knowledge
 
@@ -214,14 +213,13 @@ Advanced Story Beats are larger goals you may have to work toward over time. It 
 5. Acquire a renowned piece of equipment.
 6. Attract a protégé who's read your work and is determined to learn more.
 7. Teach someone a truth that changes their path.
-8. Understand an enemy enough to heal them physically.
-9. Learn a truth you wish you hadn't; you must change a belief or behavior because of it.
-10. Open a book that was meant to stay closed.
-11. Reclaim a lost relic.
-12. Explore and map a previously unknown landmark.
-13. Rediscover a lost rite, artifact, or belief that restores hope to a populace.
-14. Teach or inspire through shared knowledge: take time to teach a group "how to light a fire," as the saying goes.
-15. Learn a rite on Tier 3.
+8. Learn a truth you wish you hadn't; you must change a belief or behavior because of it.
+9.  Open a book that was meant to stay closed.
+10. Reclaim a lost relic.
+11. Explore and map a previously unknown landmark.
+12. Rediscover a lost rite, artifact, or belief that restores hope to a populace.
+13. Teach or inspire through shared knowledge: take time to teach a group "how to light a fire," as the saying goes.
+14. Learn an occult rite on Tier 3.
 
 ### Forced/Employed
 
@@ -234,12 +232,13 @@ Advanced Story Beats are larger goals you may have to work toward over time. It 
 7. Coerce an important or beloved NPC into undertaking a task they don't want to do.
 8. Aid another person, who you know and hate, who is also in the employ of your masters.
 9. Complete a major objective for your master—something taking at least two sessions to achieve.
+10. Learn something you weren't supposed to know about your masters or their plans. During routine work, you overhear or discover a secret that puts you at risk. Your employer would not want you talking.
 
 ### Occult
 
 1. Perform a rite at a place of power (Tier 3 or deeper).
 2. Sacrifice someone important.
-3. Establish a bond with a catacomb beast (Tier 2 or deeper).
+3. Establish a bond with a monster (Tier 2 or deeper).
 4. Meet and learn from an emissary of despair.
 5. Deliver a crucial message on behalf of your masters.
 6. Allow an occult truth to rewrite part of you: you willingly expose yourself to an impossible truth—a rune, a revelation, a pattern, a name—and let it change your body, memories, or senses in a permanent way.
@@ -252,7 +251,7 @@ Advanced Story Beats are larger goals you may have to work toward over time. It 
 13. Unlock a truth that reshapes identity: the character uncovers a secret about themselves—heritage, a past pact, or latent magical ability.
 14. Rewrite a personal failure through occult means.
 
-### Penance
+### Penitence
 
 1. Convert an important NPC to your order's cause.
 2. Establish continual connections between two landmarks on different tiers.
@@ -295,7 +294,7 @@ Party Story Beats are goals you work toward as a group. Accomplishing a party St
 24. **Create a legacy**: found a school, guild, temple, or sanctuary that outlives the heroes.
 25. **Sacrifice for the greater good**: give up personal power or treasure to prevent harm.
 26. **Rescue the innocent**: save a group of villagers, hostages, or lost travelers.
-27. **Desecrate the sacred**: destroy a temple, shrine, or symbol of faith.
+27. **Desecrate the sacred**: **destroy a temple, shrine, or symbol of faith.**
 28. **Blame the victim**: justify atrocities or shift guilt to the powerless.
 29. **Fall to darkness**: fully embrace a dark god, cursed artifact, or evil destiny.
 30. **Break an oath**: betray a promise, pact, or code of honor for convenience.
