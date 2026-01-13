@@ -4,11 +4,11 @@
   - Everything you might encounter in between Landmarks is considered a Haven. 
 - Tier
   - The Catacombs of Despair run deep below the earth. In total it has 4 explorable Tiers. Each with its own unique Landmarks and Havens.
-- Rite
+- Occult Rite
   - A homebrew form of spell casting that costs Inspiration. Rites are occult rituals that may be discovered during play. There are no class restrictions on enacting Rites.
 - Traveler
   - Those like you who came from the real world.
 - Shades
   - Those that never were.
 - Echoes
-  - Those that were but shouldn't be. Not here.
+  - Those that were but shouldn't be.
