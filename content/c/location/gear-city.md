@@ -1,0 +1,3 @@
+<img src="/images/locations/gear-city.png" alt="Silas Hale" width="300" align="right" class="h-auto w-[300px] rounded-lg border ml-4" />
+
+Floating high above Tier 1 Gear City is home to many retired Travelers and factions. Many of the citizens take a drug called Joy to stay off the despair natural to this world and believe that by floating their city they have achieved a greater level of stability and normalcy. Some even claim that if they could find the power to fly even higher they may even find a way back to the "real" world.
