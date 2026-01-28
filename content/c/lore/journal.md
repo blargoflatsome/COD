@@ -5,7 +5,7 @@ Cassian's tower was invaded by a robed figure that was able to take mental contr
 - They took out two of his men at the top of the stair well and locked them inside the prison with Cassian. They are unconcious but alive.
 
 ### The Waterfall
-Cassian has offered to pay the fee to rent a boat to go over the water fall whenever the party is ready to begin their Delve into Tier 1 of the Catacombs. Without his aid the price would 1,000 gold coins.
+Cassian has offered to pay the boat fee whenever the party is ready to begin their Delve into Tier 1 of the Catacombs. Without his aid the price would be 1,000 gold coins.
 
 ### The Others
 The main party crossed the Threshold with 3 additional people but they did not arrive at Gear city with them. They did not speak with them or get their names so all they know is:
@@ -25,9 +25,12 @@ Eowyn got a room "First door on the left" at the Traveler Inn. She saw a woman s
 ### A strange rune
 Beef, while exploring a butchers table in the dungeon, found a secret compartment that housed an arcane rune. She cast Identify on the rune and learned that it is one part to an encoded portal.
 
+### A delivery
+Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small device stored within a Bag of Holding to the 4th Tier and give it to a contact their. Trent informed her that the contact would find her. He was not willing to give details as to what the device was, but paid 100 gold up front plus the Bag of Holding. The contact will pay her an additional 100 gold upon delivery.
+
 ### Tami
 - Damascus Road
-  - Tami was approached by her God and appointed as a missionary. She was gifted a Cross and then blinded; the final words were "May the love of our father lead you out of darkness"
+  - Tami has a vision of her God whithin which she was appointed as its missionary. She was gifted a Cross and then blinded; the final words were "May the love of our father lead you out of darkness"
 
 ### Eowyn
 - Date Night
