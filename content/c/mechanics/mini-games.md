@@ -33,10 +33,11 @@ Objective: Last one who has not vomited or passed out.
 - Set the difficulty by the drink you will be competing in.
 - Each drink requires a Constitution saving throw against the listed DC.
 - Failing a Save adds the point value of the drink to your Drunk Score. Earn twice the points on a fumble.
-  - 2 DS: -2 to Saving Throws
-  - 5 DS: The Poisoned
-  - 8 DS: Vomit (lose)
-  - 10 DS: Pass Out
+  - 2 DS: -1 to Saving Throws
+  - 5 DS: -2 to Saving Throws
+  - 8 DS: Poisoned (Disadvantage)
+  - 10 DS: Vomit (lose)
+  - 11+ DS: Pass Out
 ---
 
 ## Bronze Horde (dice game)
