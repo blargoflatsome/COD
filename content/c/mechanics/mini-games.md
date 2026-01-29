@@ -30,6 +30,7 @@ Objective: Last one who has not vomited or passed out.
 | Goblin's Hootch | 23 | 5 |
 
 **Rules:**
+- Set the difficulty by the drink you will be competing in.
 - Each drink requires a Constitution saving throw against the listed DC.
 - Failing a Save adds the point value of the drink to your Drunk Score. Earn twice the points on a fumble.
   - 2 DS: -2 to Saving Throws
