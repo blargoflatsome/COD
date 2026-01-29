@@ -7,10 +7,17 @@ Gear City is a floating market and manufacturing city with cobblestone streets c
 Surrounding the city is a forest that seems to move on it's own and in that forest is Cassian's Tower.
 
 Places of Interest
-- The Lost Crown Tavern
-- Traveler Inn
-- C&T Smithy
-- Scrap's Antiques
-- Edward's Clothing Store
-- Dr Joy's Drug Store
-- Adventuring Outfitters
+- Town Center
+  - The Lost Crown Tavern
+  - Traveler Inn
+  - C&T Smithy
+  - Scrap's Antiques
+  - Edward's Clothing Store
+  - Dr Joy's Drug Store
+  - Adventuring Outfitters
+  - Lake Market Square
+- Docks District
+  - Grand Theater Hall
+  - The Boatyard
+- The Forest
+  - Cassian's Tower
