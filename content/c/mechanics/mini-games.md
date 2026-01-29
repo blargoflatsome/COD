@@ -19,7 +19,7 @@ Roll 3 Dex Check. The closest grouping wins. You get 1 reroll per 2 Dex Bonus.
 ---
 
 ## Drinking Contest
-Objective: reach 20 points without vomiting or passing out.
+Objective: Last one who has not vomited or passed out.
 
 | Drink | DC | Points |
 | --- | ---: | ---: |
@@ -31,8 +31,7 @@ Objective: reach 20 points without vomiting or passing out.
 
 **Rules:**
 - Each drink requires a Constitution saving throw against the listed DC.
-- Succeed or Fail you still add the points to your score.
-- Failing a Save also adds the point value of the drink to your Drunk Score.
+- Failing a Save adds the point value of the drink to your Drunk Score. Earn twice the points on a fumble.
   - 2 DS: -2 to Saving Throws
   - 5 DS: The Poisoned
   - 8 DS: Vomit (lose)
