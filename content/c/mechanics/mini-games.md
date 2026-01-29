@@ -19,7 +19,7 @@ Roll 3 Dex Check. The closest grouping wins. You get 1 reroll per 2 Dex Bonus.
 ---
 
 ## Drinking Contest
-Objective: reach 20 points without falling unconscious or vomiting.
+Objective: reach 20 points without vomiting or passing out.
 
 | Drink | DC | Points |
 | --- | ---: | ---: |
@@ -31,11 +31,12 @@ Objective: reach 20 points without falling unconscious or vomiting.
 
 **Rules:**
 - Each drink requires a Constitution saving throw against the listed DC.
-- Failing a save applies cumulative penalties:
-  - 1st fail: −2 to saving throws.  
-  - 2nd fail: The Poisoned condition.  
-  - 3rd fail: Vomit
-
+- Succeed or Fail you still add the points to your score.
+- Failing a Save also adds the point value of the drink to your Drunk Score.
+  - 2 DS: -2 to Saving Throws
+  - 5 DS: The Poisoned
+  - 8 DS: Vomit (lose)
+  - 10 DS: Pass Out
 ---
 
 ## Bronze Horde (dice game)
