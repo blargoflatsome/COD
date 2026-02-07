@@ -8,4 +8,4 @@ Father of Alvin Edwards, a fashion designer and owner of the Edwards Clothing st
 Has a date lined up with Eowyn after losing to her in a drinking contest.
 
 ## The Argent Consortium Logo
-<img src="/images/icon/argent-consortium-500.png" alt="Sterling Edwards" width="300" align="right" class="h-auto w-[300px] rounded-lg border ml-4" />
+<img src="/images/icons/argent-consortium-500.png" alt="Argent Consortium Logo" width="300" align="right" class="h-auto w-[300px] rounded-lg border ml-4" />
