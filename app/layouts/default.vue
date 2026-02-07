@@ -34,10 +34,14 @@
   </UFooter>
 </template>
 
-
 <script setup lang="ts">
 import { findPageChildren } from '@nuxt/content/utils'
 const router = useRouter()
+const route = useRoute()
+
+useHead({
+  meta: [{ property: 'og:title', content: `${route.meta.title}` }],
+})
 
 const { data: navigation } = await useAsyncData('navigation', () =>
   queryCollectionNavigation('content')
