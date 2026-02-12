@@ -225,16 +225,17 @@
 
   /* Tables */
   table {
-    @apply w-full;
+    width: auto !important;
+    margin-left: 10px !important;
+    background-color: black !important;
   }
 
   thead > tr {
-    background-color: var(--color-accent-dark);
+    background-color: black;
     @apply text-white;
   }
 
   tbody > tr {
-    @apply border-b bg-neutral text-black;
   }
 
   tbody > tr:hover {
@@ -243,7 +244,8 @@
 
   th,
   td {
-    @apply text-left px-3 py-3;
+    padding: 10px !important;
+    text-align: center !important;
   }
 
   .markdown ol {
