@@ -44,6 +44,13 @@ export default defineNuxtConfig({
         h6:  false,
       }
     }
-  }
+  },
+  app: {
+    head: {
+      htmlAttrs: {
+        lang: 'en',
+      },
+    },
+  },
 
 })
