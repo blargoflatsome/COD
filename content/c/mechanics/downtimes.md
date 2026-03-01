@@ -6,6 +6,10 @@ Downtime is determined at the end of a session. You won't get downtime between g
 
 When the players are given *Downtime* it will be expressed in *Days* or *Weeks*. These *Days* or *Weeks* can then be spent on *Actions*, which the DM will track. Once the total amount of time has been spent, the action will be completed.
 
+> - 1 Gold (GP) = 100 Copper (CP) 
+> - 1 Gold (GP) = 10 Silver (SP)
+> - 1 Gold (GP) = 2 Electrum (EP) 
+
 ## Actions
 
 Actions are the things you can spend *Time* on during a *Downtime*. Some may also have additional Requirements that must be met.
@@ -62,10 +66,10 @@ Actions are the things you can spend *Time* on during a *Downtime*. Some may als
 
 | DC | Value |
 | ----------- | ----------- |
-| 10 | 5 gp |
-| 13 | 10 gp |
-| 17 | 20 gp |
-| 21 | 30 gp |
+| 10 | 50cp |
+| 13 | 1gp |
+| 17 | 5gp |
+| 21 | 10gp |
 
 **A Day Job**
 - Time: 1 Week
@@ -73,10 +77,10 @@ Actions are the things you can spend *Time* on during a *Downtime*. Some may als
 
 | DC | Value |
 | ----------- | ----------- |
-| 9 | 7 gp |
-| 10 | 14 gp |
-| 15 | 28 gp |
-| 21 | 53 gp |
+| 0-9 | 1gp |
+| 10 | 3gp |
+| 15 | 10gp |
+| 21 | 15gp |
 
 #tab-3
 ### Criminal Actions
@@ -105,20 +109,20 @@ The following list is *typically* what happens after each strike. Use it as a ge
 
 | DC | Value |
 | ----------- | ----------- |
-| 10 | 10 gp |
-| 13 | 20 gp |
-| 17 | 30 gp |
-| 18 | 40 gp |
+| 10 | 1gp |
+| 13 | 5gp |
+| 17 | 10gp |
+| 18 | 15gp |
 
 **Sleight of Hand: Pick Pocket**
 - Time: 1 Day
 
 | DC | Value |
 | ----------- | ----------- |
-| 10 | 25 gp, a struggling merchant |
-| 15 | 50 gp, a prosperous merchant |
-| 20 | 100 gp, a noble |
-| 25 | 200 gp, one of the richest figures in town |
+| 10 | 10gp, a struggling merchant |
+| 15 | 15gp, a prosperous merchant |
+| 20 | 30gp, a noble |
+| 25 | 40gp, one of the richest figures in town |
 
 **Stealth + Sleight of Hand: Robbery**
 - Time: 1 Day
