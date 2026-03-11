@@ -1,8 +1,10 @@
 ## Current Quests
 
-### Cassian
+### Cassian's Tower
 Cassian's tower was invaded by a robed figure that was able to take mental control over his men. Cassian himself was mortally wounded before being tossed in the prison with the party. After they saved his life the party agreed to expell the intruder from his tower without killing any of his men. Whatever they find of value as they do this within their tower is their reward.
 - They took out two of his men at the top of the stair well and locked them inside the prison with Cassian. They are unconcious but alive.
+- While scouring the tower for treasure they encountered the apparition of an unknown woman confronting an unseen assailant. She had discovered a folder with information on woman, including Tofu, who had been members of a cult. Some of the images were crossed out. The apparition vanished after she seemed to be struck across the face and choked. A ghostly relic of the folder was however found in the fireplace. Confirming that the aparition had something to do with Tofu's past.
+- The Party reached the top of the Tower where the rats, wearing human skin, were casting some form of ritual on Cassian. His screams only subsided when the party attacked the rats and prevented them from chanting. Bob was knocked unconcious by a dominated Eowyn while Beef's bones were broken beyond repair by the animated skin that the rats wore. In the end all but one of the rats were killed.
 
 ### The Waterfall
 Cassian has offered to pay the boat fee whenever the party is ready to begin their Delve into Tier 1 of the Catacombs. Without his aid the price would be 1,000 gold coins.
@@ -28,10 +30,6 @@ Beef, while exploring a butchers table in the dungeon, found a secret compartmen
 ### A delivery
 Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small device stored within a Bag of Holding to the 4th Tier and give it to a contact their. Trent informed her that the contact would find her. He was not willing to give details as to what the device was, but paid 100 gold up front plus the Bag of Holding. The contact will pay her an additional 100 gold upon delivery.
 
-### Tami
-- Damascus Road
-  - Tami has a vision of her God whithin which she was appointed as its missionary. She was gifted a Cross and then blinded; the final words were "May the love of our father lead you out of darkness"
-
 ### Eowyn
 - Date Night
   - Eowyn has a date with a wealthy local named Sterling Edwards. Don't be late!
@@ -40,18 +38,24 @@ Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small 
 
 ### Beef
 - Basic
-  - Refuse to back down when it would be beneficial to do so.
-  - Kick someone off a tall structure
+  - ~~Refuse to bacck down it would be beneficial to do so.~~
+  - Kick someone off a tall structure.
 - Advanced
-  - Explore a tower
+  - ??
 
 ### Bob
 - Basic
   - Save a haven from destruction or doom
+  - ~~Defeat a Beast of CR1+~~
+    - Defeated a Cranium Rat
 - Advanced
-  - Have 3 havens know your name
+  - Have ~~3~~ 2 more havens know your name.
+    - Cassian's Tower knows your name
 
 ### Eowyn
+- Basic
+  - ~~Bring bodily harm to those who stand against your party~~
+  - Repeat a past mistake
 - Advanced
   - Save someone who shouldn’t have survived
   
@@ -64,7 +68,7 @@ Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small 
 
 ### Tami
 - Basic
-  - Put yourself in great danger to protect you companions
+  - ~~Put yourself in great danger to protect you companions~~
   - Establish a bond
 - Advanced
   - Perform a mercy that feels like murder
@@ -92,3 +96,9 @@ Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small 
   - Tofu and Beef worked together to save Cassian after he was supernaturally wounded. Healing magic failed to cure the wound, but with their combined knowledge of Medicine they were able to save his life.
 - Acquire a rare or powerful magic item.
   - To aid the party in escaping the prison; Cassian gifted Tofu his Gauntlets of Thievery
+
+### Tami
+- Damascus Road - Complete!
+  - Tami has a vision of her God whithin which she was appointed as its missionary. She was gifted a Cross and then blinded; the final words were "May the love of our father lead you out of darkness"
+  - Tami channeled the power of her god as she fearlessly entered the fray of combat and regained her sight just in time!
+  - Her cross now has a glowing number 1 on it.
