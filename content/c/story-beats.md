@@ -132,30 +132,25 @@ Story Beats are broken down by character archetype just to help with organizatio
 ### Occult
 
 1. See something from your dreams in the real world.
-2. Perform a rite at a place of power (Tier 2 or deeper).
-3. Sacrifice something you love to the occult.
-4. Allow something dangerous of the occult to live when you could have killed it.
-5. Let your curiosity lead you into danger.
-6. Undergo a trance-like vision that lasts for 2 hours.
-7. Communicate with something occult.
-8. Witness an emissary of despair.
-9. Receive insight from a witch or something even stranger.
-10. Gain information on why you have been chosen by an occult entity.
-11. Receive a strange surgical implant.
-12. Build a shrine to the occult somewhere important.
-13. Terrify or intrigue an NPC with your obsession.
-14. Perform an act of service to an NPC occult figure.
-15. Shelter someone touched by the occult from persecution.
-16. Become cursed.
-17. Consume something that should not be eaten: you must devour an occult substance—ink, spoiled magic, someone's shadow, a memory, a parasite—and survive the transformation it inflicts.
-18. Accept a whisper that never stops: an entity implants a voice in your mind. You must act on at least one of its suggestions, even as you realize its goals are not your own.
-19. Give a name to something that should remain nameless: you identify an eldritch thing—granting it definition and power. Its new identity clings to you, creating a bond you cannot easily sever.
-20. Sacrifice innocence to gain insight; you willingly end something pure.
-21. Learn a small, helpful rite from a harmless spirit.
-22. Witness an occult phenomenon that inspires wonder, not terror.
-23. Use a rite or spell to bring emotional comfort rather than harm.
-24. Join an occult faction.
-25. Perform a minor pact or offering: you perform a small ritual or offer something to a local entity.
+2. Allow something dangerous of the occult to live when you could have killed it.
+3. Let your curiosity lead you into danger.
+4. Undergo a trance-like vision that lasts for 2 hours.
+5. Communicate with something occult.
+6. Witness an emissary of despair.
+7. Receive insight from a witch or something even stranger.
+8.  Gain information on why you have been chosen by an occult entity.
+9.  Receive a strange surgical implant.
+10. Build a shrine to the occult somewhere important.
+11. Terrify or intrigue an NPC with your obsession.
+12. Perform an act of service to an NPC occult figure.
+13. Shelter someone touched by the occult from persecution.
+14. Become cursed.
+15. Consume something that should not be eaten: you must devour an occult substance—ink, spoiled magic, someone's shadow, a memory, a parasite—and survive the transformation it inflicts.
+16. Sacrifice innocence to gain insight; you willingly end something pure.
+17. Learn a small, helpful rite from a harmless spirit.
+18. Witness an occult phenomenon that inspires wonder, not terror.
+19. Use a rite or spell to bring emotional comfort rather than harm.
+20. Perform a minor pact or offering: you perform a small ritual or offer something to a local entity.
 
 ### Penitence
 
@@ -242,19 +237,20 @@ Advanced Story Beats are larger goals you may have to work toward over time. It 
 
 1. Perform a rite at a place of power (Tier 2+).
 2. Perform an Occult Rite that permanently changes you.
-3. Sacrifice someone important.
-4. Tame a monster.
-5. Meet and learn from an emissary of despair.
-6. Deliver a crucial message on behalf of your masters.
-7. Allow an occult truth to rewrite part of you: you willingly expose yourself to an impossible truth—a rune, a revelation, a pattern, a name—and let it change your body, memories, or senses in a permanent way.
-8. Let an occult presence use your body as its vessel: for a brief but intense moment, you give permission for a spirit, spell, sentience, or conceptual entity to act through you. You remain conscious, aware of your loss of control, and bear the consequences afterward.
-9. Rise in rank within your occult faction.
-10. Discover a forbidden archive.
-11. Uncover a pattern that predicts catastrophe: a recurring occult phenomenon or symbol reveals the timing or location of a disaster. Interpreting it correctly allows prevention, but misreading it magnifies risk.
-12. Translate a forgotten language.
-13. Bear the burden of an occult entity: allow an entity to use you as a conduit.
-14. Unlock a truth that reshapes identity: the character uncovers a secret about themselves—heritage, a past pact, or latent magical ability.
-15. Rewrite a personal failure through occult means.
+3. Sacrifice something you love to the occult.
+4. Meet and learn from an emissary of despair.
+5. Allow an occult truth to rewrite part of you: you willingly expose yourself to an impossible truth—a rune, a revelation, a pattern, a name—and let it change your body, memories, or senses in a permanent way.
+6. Let an occult presence use your body as its vessel: for a brief but intense moment, you give permission for a spirit, spell, sentience, or conceptual entity to act through you. You remain conscious, aware of your loss of control, and bear the consequences afterward.
+7. Rise in rank within your occult faction.
+8.  Discover a forbidden archive.
+9.  Uncover a pattern that predicts catastrophe: a recurring occult phenomenon or symbol reveals the timing or location of a disaster. Interpreting it correctly allows prevention, but misreading it magnifies risk.
+10. Translate a forgotten language.
+11. Bear the burden of an occult entity: allow an entity to use you as a conduit.
+12. Unlock a truth that reshapes identity: the character uncovers a secret about themselves—heritage, a past pact, or latent magical ability.
+13. Rewrite a personal failure through occult means.
+14. Accept a whisper that never stops: an entity implants a voice in your mind. You must act on at least one of its suggestions, even as you realize its goals are not your own.
+15. Give a name to something that should remain nameless: you identify an eldritch thing—granting it definition and power. Its new identity clings to you, creating a bond you cannot easily sever.
+16. Join an occult faction.
 
 ### Penitence
 
