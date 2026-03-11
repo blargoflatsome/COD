@@ -46,7 +46,7 @@ Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small 
 ### Bob
 - Basic
   - ~~Save a haven from destruction or doom~~
-  - ??
+  - Fail in a spectacular way when it matters most
 - Advanced
   - Have ~~3~~ 2 more havens know your name.
     - Cassian's Tower knows your name
