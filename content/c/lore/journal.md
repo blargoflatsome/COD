@@ -45,9 +45,8 @@ Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small 
 
 ### Bob
 - Basic
-  - Save a haven from destruction or doom
-  - ~~Defeat a Beast of CR1+~~
-    - Defeated a Cranium Rat
+  - ~~Save a haven from destruction or doom~~
+  - ??
 - Advanced
   - Have ~~3~~ 2 more havens know your name.
     - Cassian's Tower knows your name
@@ -83,6 +82,8 @@ Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small 
 ### Bob
 - Charm someone with tales of your exploits.
   - He told everyone he saw and some of them twice.
+- Defeat a Beast of CR1+
+  - Defeated a Cranium Rat
 
 ### Eowyn
 - Forge a romantic relationship with NPC.
