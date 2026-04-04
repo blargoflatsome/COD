@@ -1,13 +1,11 @@
 ## Current Quests
 
-### Cassian's Tower
-Cassian's tower was invaded by a robed figure that was able to take mental control over his men. Cassian himself was mortally wounded before being tossed in the prison with the party. After they saved his life the party agreed to expell the intruder from his tower without killing any of his men. Whatever they find of value as they do this within their tower is their reward.
-- They took out two of his men at the top of the stair well and locked them inside the prison with Cassian. They are unconcious but alive.
-- While scouring the tower for treasure they encountered the apparition of an unknown woman confronting an unseen assailant. She had discovered a folder with information on woman, including Tofu, who had been members of a cult. Some of the images were crossed out. The apparition vanished after she seemed to be struck across the face and choked. A ghostly relic of the folder was however found in the fireplace. Confirming that the aparition had something to do with Tofu's past.
-- The Party reached the top of the Tower where the rats, wearing human skin, were casting some form of ritual on Cassian. His screams only subsided when the party attacked the rats and prevented them from chanting. Bob was knocked unconcious by a dominated Eowyn while Beef's bones were broken beyond repair by the animated skin that the rats wore. In the end all but one of the rats were killed.
-
 ### The Waterfall
 Cassian has offered to pay the boat fee whenever the party is ready to begin their Delve into Tier 1 of the Catacombs. Without his aid the price would be 1,000 gold coins.
+
+### Silas Hale and The Held
+The party now knows that Silas Hale, the ex-cult leader being pursued by Tofu, is in the Catacombs. 
+
 
 ### The Others
 The main party crossed the Threshold with 3 additional people but they did not arrive at Gear city with them. They did not speak with them or get their names so all they know is:
@@ -17,12 +15,13 @@ The main party crossed the Threshold with 3 additional people but they did not a
 
 ### The Lost Siblings
 Eowyn, to gain access to the Catacombs from Luca Klein, agreed to seek out two missing members of the Klein family. Asha and Tommy Klein. 
+- Asha was discovered having apparently starved to death. The party found her journal and stole it from the crime scene.
 
 ### Take Your Joy
-Tofu convinced Dr Joy that his batch of Joy was bad. The party continued to encounter locals who were very enthusiastic about pushing the drug. Many of them with wide grins. Beef and Bob both took their Joy and discovered its basic effects.
-
-### Traveler Inn
-Eowyn got a room "First door on the left" at the Traveler Inn. She saw a woman sleeping at a table within the lounge area but did not disturb her.
+- Tofu convinced Dr Joy that his batch of Joy was bad. The party continued to encounter locals who were very enthusiastic about pushing the drug. Many of them with wide grins. Beef and Bob both took their Joy and discovered its basic effects.
+- This city is now suffering from a Joy shortage.
+- It was suggested that to make more the Dr would need to visit the Orphanage
+- They managed to steal the "bad" pills from a Kobold drug dealer named Glorvin Shpeal Turkey.
 
 ### A strange rune
 Beef, while exploring a butchers table in the dungeon, found a secret compartment that housed an arcane rune. She cast Identify on the rune and learned that it is one part to an encoded portal.
@@ -34,46 +33,24 @@ Eowyn agreed to work a job for The Clockwork Syndicate. She is to bring a small 
 - Date Night
   - Eowyn has a date with a wealthy local named Sterling Edwards. Don't be late!
 
-## Active Story Beats
+### Tami's Followers
+She received a Cross with a counter upon it from her divine interaction with The Cross. Then she encountered a child that looked like her son at that age named Oliver who sold her a newspaper that tracked her actions since receiving the cross. It even had a comment section. 
 
-### Beef
-- Basic
-  - ~~Refuse to bacck down it would be beneficial to do so.~~
-  - Kick someone off a tall structure.
-- Advanced
-  - ??
-
-### Bob
-- Basic
-  - ~~Save a haven from destruction or doom~~
-  - Fail in a spectacular way when it matters most
-- Advanced
-  - Have ~~3~~ 2 more havens know your name.
-    - Cassian's Tower knows your name
-
-### Eowyn
-- Basic
-  - ~~Bring bodily harm to those who stand against your party~~
-  - Repeat a past mistake
-- Advanced
-  - Save someone who shouldn’t have survived
-  
-### Tofu
-- Basic
-  - Get in trouble with the law
-  - Accept help from an enemy
-- Advanced
-  - Discover a Forbidden Archive
-
-### Tami
-- Basic
-  - ~~Put yourself in great danger to protect you companions~~
-  - Establish a bond
-- Advanced
-  - Perform a mercy that feels like murder
+**Current Followers:**
+  1) The Cross: Tami was charged by The Cross to spread the word here in this heathen place.
+  2) Cassian was converted after they rescued his tower. He now seeks redemption through confession; but he lacks a priest.
 
 
 ## Completed
+
+### Cassian's Tower
+Cassian's tower was invaded by a robed figure that was able to take mental control over his men. Cassian himself was mortally wounded before being tossed in the prison with the party. After they saved his life the party agreed to expell the intruder from his tower without killing any of his men. Whatever they find of value as they do this within their tower is their reward.
+- They took out two of his men at the top of the stair well and locked them inside the prison with Cassian. They are unconcious but alive.
+- While scouring the tower for treasure they encountered the apparition of an unknown woman confronting an unseen assailant. She had discovered a folder with information on woman, including Tofu, who had been members of a cult. Some of the images were crossed out. The apparition vanished after she seemed to be struck across the face and choked. A ghostly relic of the folder was however found in the fireplace. Confirming that the aparition had something to do with Tofu's past.
+- The Party reached the top of the Tower where the rats, wearing human skin, were casting some form of ritual on Cassian. His screams only subsided when the party attacked the rats and prevented them from chanting. Bob was knocked unconcious by a dominated Eowyn while Beef's bones were broken beyond repair by the animated skin that the rats wore. In the end all but one of the rats were killed.
+- They questioned Cassian and learned that he was the Lawyer for Silas Hale. His wife was murdered, an act that still haunts him. He abandoned Silas and the real world after she died. He also burned the documents that would have allowed Silas to silence more witnesses. Among them was the information on Tofu
+- Cassian still does not know that Tofu was a member of Silas's cult
+
 
 ### Beef
 - Engage in reckless abandon with drugs, sex.
