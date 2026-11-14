@@ -165,7 +165,7 @@ _High Commander Trent Vas_ has led the Iron Catechism for six years. His positio
 
 The Penitent Flame holds that historical failures are collective in nature and require collective acknowledgment and repair. Their doctrine treats guilt as a shared condition rather than an individual failing, and positions honest communal reckoning as the necessary precondition for meaningful restoration. The tradition is the most explicitly pastoral of the twelve faiths in its public practice. Its charitable services are the most accessible of any faith-house in terms of operating hours and cost of entry.
 
-_High Shepherd Nara Voss_ leads the Penitent Flame. Her conduct in council proceedings is characterized by direct statement and a documented tendency to articulate positions that other council members have subsequently confirmed they held but had not raised. She has supported inter-faith cooperation and ecumenical dialogue since before the Held's arrival in Refuge, and her alignment with the current unified council proposal represents one of the more consequential developments in the council's recent proceedings.
+_High Shepherd Nara Kilbourne_ leads the Penitent Flame. Her conduct in council proceedings is characterized by direct statement and a documented tendency to articulate positions that other council members have subsequently confirmed they held but had not raised. She has supported inter-faith cooperation and ecumenical dialogue since before the Held's arrival in Refuge, and her alignment with the current unified council proposal represents one of the more consequential developments in the council's recent proceedings.
 
 ---
 
