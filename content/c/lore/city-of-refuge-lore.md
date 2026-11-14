@@ -157,7 +157,7 @@ _High Walker Ser Omis_ leads the Witnesses. His conduct in council proceedings i
 
 The Iron Catechism holds that divine order exists in active opposition to the forces of disorder, and that the appropriate devotional response is disciplined preparation for that opposition. The tradition's historical record documents consistent defensive rather than offensive application of its martial capacity. The Iron Catechism maintains the most organized trained fighting force among the twelve faiths and has administered training programs for Refuge's civic guard for three generations.
 
-_High Commander Trent Vas_ has led the Iron Catechism for six years. His positions on council matters are considered consistent by other members. His approach to council proceedings reflects the same methodical analysis applied to the tradition's operational functions.
+_High Commander Garran Kesh_ has led the Iron Catechism for six years. His positions on council matters are considered consistent by other members. His approach to council proceedings reflects the same methodical analysis applied to the tradition's operational functions.
 
 ---
 
