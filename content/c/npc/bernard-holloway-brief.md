@@ -10,7 +10,7 @@ navigation: false
 
 **Bernard Holloway, 34.** Back in the real world you were an office administrator and a chronic appeaser: the guy who books the conference room, apologizes when someone else bumps into him, and stays late so nobody's mad at him.
 
-You paid to cross into the Catacombs on the same day as Tami and Beef. You heard the place makes you who you really are. It made you **a rat.** Whiskers, twitching nose, claws, and a tail you forget about until it knocks something over.
+You paid to cross into the Catacombs on the same day as Tami and Beef. You heard the place makes you who you really are. It made you **a rat-man.** Whiskers, twitching nose, claws, and a tail you forget about until it knocks something over.
 
 You never came out where they did. While they ended up in a place called Gear City, you woke up alone in **a cave outside the City of Refuge**, already a ratman.
 
