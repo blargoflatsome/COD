@@ -59,7 +59,7 @@ The faith district occupies the northeastern quadrant of the city and contains t
 
 **The House of Repair** (Penitent Flame) is the smallest of the twelve faith-houses, located in the residential quarter bordering the city's lower-income district. It operates extended service hours relative to comparable institutions and charges no formal membership fee for access to its charitable programs.
 
-**The Held Compound** (The Held) occupies a converted merchant hall in the commercial quarter, expanded within the last several years into a compound that includes a distribution center for the institution's medical relief program. It is the most recently established of the twelve recognized institutional presences.
+**The Held Compound** (The Held) occupies a converted merchant hall in the commercial quarter, expanded within the past year into a compound that includes a distribution center for the institution's medical relief program. It is the most recently established of the twelve recognized institutional presences.
 
 ### The Graveyard
 
@@ -171,7 +171,7 @@ _High Shepherd Nara Kilbourne_ leads the Penitent Flame. Her conduct in council 
 
 **THE HELD**
 
-The Held are the most recently established of the twelve recognized faith traditions, having arrived in Refuge within the last generation rather than emerging from the city's founding history. Their doctrine centers on the concept of communal unburdening — that suffering endured in isolation compounds over time, and that the role of the faith community is to receive and relieve that suffering through shared practice and the administration of the Crown's Communion sacrament. Participation in their charitable services does not require doctrinal alignment.
+The Held are the most recently established of the twelve recognized faith traditions, having arrived in Refuge within the past year rather than emerging from the city's founding history. Their doctrine centers on the concept of communal unburdening — that suffering endured in isolation compounds over time, and that the role of the faith community is to receive and relieve that suffering through shared practice and the administration of the Crown's Communion sacrament. Participation in their charitable services does not require doctrinal alignment.
 
 The origins and external affiliations of the Held have been a subject of inquiry within the Inter-Faith Council. Accounts of their provenance vary. No consensus determination has been reached.
 
