@@ -24,3 +24,21 @@ The plague moves through four stages.
 2. **Exposed**: dark veins spread up the arms from the hands.
 3. **Infectious**: the sick begin to bleed from the eyes and mouth.
 4. **Final**: the eyes fill with blood, which runs down the face like tears.
+
+## Howler-Hunters and Pyrewardens
+
+Travelers on the roads around Refuge will likely meet one of two kinds of armed patrol, easiest to tell apart by the color of their cloaks. Both hunt the creatures known as Howlers, and they agree on little else.
+
+### The Howlers
+
+Howlers hunt the wilds outside Refuge's walls, mostly at night. Their cry is not one voice: those who have heard it up close describe several voices screaming at once.
+
+### Howler-Hunters (Red Cloaks)
+
+The Howler-Hunters belong to the Held. They wear red, fastened with a gold crown pin. They patrol outside the walls after dark. They are trained to battle the undead, and bring prison carts to carry the dead bodies they encounter or create along the way.
+
+### Pyrewardens (Gray Cloaks)
+
+The Pyrewardens serve the Ashen Covenant, whose Hall of Purity stands in pale gray stone in the north of Refuge's faith district. They keep outposts along the roads and hunt both Howlers and the sick. When they find the body of a plague victim, they burn it.
+
+The Covenant teaches that nothing impure may come near the sacred. To the Pyrewardens, a burned body is a body made clean. Travelers who show signs of plague should expect questions from a gray cloak, and may find them unfriendly.
