@@ -1,4 +1,4 @@
-![Banner Image](/images/story-beats-banner.png)
+![Banner Image](/images/story-beats-banner.webp)
 
 > This is an experimental leveling system and is subject to change during play.
 

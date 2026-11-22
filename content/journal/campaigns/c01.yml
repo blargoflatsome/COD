@@ -1,0 +1,22 @@
+slug: c01
+name: Campaign 01
+subtitle: Tami, Beef & Brick
+color: "#a3302b"
+order: 1
+party:
+  - name: Tami
+    notes:
+      - Bearer of The Cross
+      - Charged by her god to spread his word in this place
+  - name: Beef
+    notes:
+      - Member of the Ossified
+      - Her fingernails have turned red
+  - name: Brick
+    notes:
+      - Washed ashore with Tami and Beef after the Waterfall
+      - Seeking his sister
+  - name: Bernard Holloway
+    npc: true
+    notes:
+      - A ratman desperate to be brave

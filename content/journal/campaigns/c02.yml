@@ -1,0 +1,20 @@
+slug: c02
+name: Campaign 02
+subtitle: Eowyn, Bob & Tofu
+color: "#5d86c5"
+order: 2
+party:
+  - name: Eowyn
+    notes:
+      - Carrying a Clockwork Syndicate device to the 4th Tier
+      - Haunted by the Sin Eater
+  - name: Bob
+    notes:
+      - Suffering a crisis of faith
+  - name: Tofu
+    notes:
+      - Pursuing Silas Hale
+  - name: Tommy Klein
+    npc: true
+    notes:
+      - Back to being a normal child

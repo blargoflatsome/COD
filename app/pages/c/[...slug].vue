@@ -21,5 +21,12 @@ const { data: page } = await useAsyncData(route.path, () => {
 if (!page.value) {
   throw createError({ statusCode: 404, statusMessage: 'Page not found', fatal: true })
 }
+
+useSeoMeta({
+  title: () => page.value?.title,
+  ogTitle: () => page.value?.title,
+  description: () => page.value?.description,
+  ogDescription: () => page.value?.description
+})
 </script>
 

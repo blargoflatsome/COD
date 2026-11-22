@@ -1,4 +1,4 @@
-![Banner Image](/images/creation-banner.png)
+![Banner Image](/images/creation-banner.webp)
 
 ## DnD Beyond
 [Join The Campaign](https://www.dndbeyond.com/campaigns/join/58697612909311391)

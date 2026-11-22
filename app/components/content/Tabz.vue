@@ -1,27 +1,19 @@
-  <template>
-    <UTabs :items="tabItems" color="secondary" variant="link" size="xl" class="w-full my-8">
-      <template v-for="(item, index) in tabItems" :key="index" #[`tab-${index}`]>
-        <slot :name="`tab-${index}`" />
-      </template>
-    </UTabs>
-  </template>
+<template>
+  <UTabs :items="tabItems" color="secondary" variant="link" size="xl" class="w-full my-8">
+    <template v-for="(item, index) in tabItems" :key="index" #[`tab-${index}`]>
+      <slot :name="`tab-${index}`" />
+    </template>
+  </UTabs>
+</template>
 
-    <script setup lang="ts">
-    import { defineProps, computed, useSlots } from 'vue';
+<script setup lang="ts">
+// Used in markdown as ::Tabz{tabs="One, Two"} with #tab-0, #tab-1 ... slots
+const props = defineProps<{ tabs: string }>()
 
-    const props = defineProps({
-      tabs: {
-        type: String,
-        required: true,
-      },
-    });
-
-    const slots = useSlots();
-
-    const tabItems = computed(() => {
-      return props.tabs.split(',').map((tab, index) => ({
-        label: tab.trim(),
-        slot: `tab-${index}`,
-      }));
-    });
-    </script>
+const tabItems = computed(() =>
+  props.tabs.split(',').map((tab, index) => ({
+    label: tab.trim(),
+    slot: `tab-${index}`
+  }))
+)
+</script>

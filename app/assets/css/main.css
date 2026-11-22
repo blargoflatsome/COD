@@ -8,7 +8,7 @@
 	--color-slatePrimary-200: #c28f8f;
 	--color-slatePrimary-300: #a75e5d;
 	--color-slatePrimary-400: #8c2d2c;
-	--color-slatePrimary-500: #7395ae;
+	--color-slatePrimary-500: #7395ae; /* deliberately the link blue, not part of the red scale */
 	--color-slatePrimary-600: #540504;
 	--color-slatePrimary-700: #3c0403;
 	--color-slatePrimary-800: #240202;
@@ -20,7 +20,7 @@
 	--color-slateSecondary-200: #bfad92;
 	--color-slateSecondary-300: #a38861;
 	--color-slateSecondary-400: #876431;
-	--color-slateSecondary-500: #8c2d2c;
+	--color-slateSecondary-500: #8c2d2c; /* deliberately the red accent */
 	--color-slateSecondary-600: #4f3309;
 	--color-slateSecondary-700: #392406;
 	--color-slateSecondary-800: #221503;
@@ -145,7 +145,7 @@
   }
 
   .bg-default {
-    background: url('/images/skullbg.png') black no-repeat center center fixed
+    background: url('/images/skullbg.webp') black no-repeat center center fixed
   }
 
   /* Links */
@@ -201,7 +201,8 @@
   }
 
   h4 {
-    @apply my-3 -mb-2 text-black font-bold;
+    @apply my-3 -mb-2 font-bold;
+    color: var(--color-gray-lighter);
   }
 
   /* Sub Header */
@@ -216,7 +217,7 @@
 
   code {
     background-color: transparent !important;
-    color: var(--color-slatePrimary-light) !important;
+    color: var(--color-action-light) !important;
   }
 
   strong {
@@ -271,18 +272,23 @@
   }
 
   .markdown ul {
-    list-style: none; /* Removes default bullets */
-    margin: 0; /* Removes default margin */
-    padding-top: 10px;
-    padding: 0; /* Removes default padding */
-    font-family: Arial, sans-serif; /* Sets a clean, readable font */
-    line-height: 1.6; /* Improves readability of text */
+    list-style: disc;
+    margin: 0;
+    padding: 0 0 0 1.25rem;
+    line-height: 1.6;
+  }
+
+  .markdown ul ul {
+    list-style: circle;
+    margin-top: 8px;
   }
 
   .markdown ul li {
-    margin-bottom: 8px; /* Adds spacing between list items */
-    padding-left: 15px; /* Adds left padding for visual separation */
-    position: relative; /* Allows for custom bullet styling if desired */
+    margin-bottom: 8px;
+  }
+
+  .markdown ul li::marker {
+    color: var(--color-gray-dark);
   }
 
   /* With no author its just a Note */
@@ -318,7 +324,42 @@
       border: none;
       border-bottom: 1px solid #eee;
       position: relative;
-      text-align: left;
+      text-align: left !important;
     }
   }
+}
+/* Markdown h4s get Nuxt UI's dark "highlighted" grey, which is hard to read on black */
+.markdown h4 {
+  color: var(--color-gray-lighter);
+}
+
+/* Journal */
+.journal-card {
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid var(--color-gray-darker);
+  border-radius: 0.5rem;
+  backdrop-filter: blur(2px);
+}
+a.journal-card:hover {
+  background: rgba(20, 20, 20, 0.8);
+  border-color: var(--color-gray-dark);
+}
+.journal-callout {
+  background: rgba(0, 0, 0, 0.65);
+  border: 1px solid var(--color-gray-darker);
+  border-left-width: 4px;
+  border-radius: 0.5rem;
+  padding: 1rem 1.25rem;
+}
+.journal-timeline {
+  position: relative;
+}
+.journal-timeline::before {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 1.5rem;
+  bottom: 1rem;
+  width: 2px;
+  background: var(--color-gray-darker);
 }

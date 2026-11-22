@@ -1,5 +1,5 @@
 <template>
-  <button type="button" v-if="showButton" class="back-to-top" aria-label="back to top" @click="scrollToTop">
+  <button v-if="showButton" type="button" class="back-to-top" aria-label="Back to top" @click="scrollToTop">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor">
       <path d="M12 2L6 8h4v12h4V8h4L12 2z"/>
     </svg>
@@ -7,8 +7,6 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted } from 'vue';
-
 const showButton = ref(false);
 
 const handleScroll = () => {
@@ -23,7 +21,7 @@ const scrollToTop = () => {
 };
 
 onMounted(() => {
-  window.addEventListener('scroll', handleScroll);
+  window.addEventListener('scroll', handleScroll, { passive: true });
 });
 
 onUnmounted(() => {

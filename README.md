@@ -1,75 +1,37 @@
-# Nuxt Minimal Starter
+# Catacombs of Despair
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+The campaign website: lore, NPCs, mechanics and the session journal. Built with Nuxt 4, Nuxt Content and Nuxt UI.
 
-## Setup
-
-Make sure to install dependencies:
+## Running it
 
 ```bash
-# npm
 npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
+npm run dev        # http://localhost:3000
+npm run build      # production build (also type-checks)
+npm run lint
 ```
 
-## Development Server
+## Where things live
 
-Start the development server on `http://localhost:3000`:
+| What | Where |
+| --- | --- |
+| Lore, NPC, mechanics pages | `content/c/**.md`. The folder is the URL: `content/c/npc/silas.md` is `/c/npc/silas` |
+| Images | `public/images/`. Use `.webp` (much smaller than `.png`) |
+| Despair flaw table | `tables/flaws.json` |
+| Site colours, fonts, page styles | `app/assets/css/main.css` |
 
-```bash
-# npm
-npm run dev
+## The Journal (`/journal`)
 
-# pnpm
-pnpm dev
+All in `content/journal/`:
 
-# yarn
-yarn dev
+- **Campaigns**: `campaigns/c01.yml`, one per party. `slug` is the id used everywhere else; `party` lists members and their notes (`npc: true` marks an NPC).
+- **Sessions**: `sessions/c01-s03.md`, one per session. Frontmatter: `title`, `campaign` (a campaign slug), `session` (number), `summary`, optional `played` date (`2026-11-21`), `leftOff` (list), `tags`, `meanwhile`. The text below the frontmatter is the full write-up. The newest session's `leftOff` becomes "Where We Left Off".
+- **Quests**: `quests/<name>.md`. Frontmatter: `title`, `campaign` (a campaign slug, or `shared` to show it on the World tab), `status` (`active` or `completed`), `order`, `tags`.
 
-# bun
-bun run dev
-```
+## Hidden pages
 
-## Production
+Add `navigation: false` to a page's frontmatter to keep it out of the menu. Anyone with the link can still open it, so also add its path to `public/robots.txt` to keep search engines away.
 
-Build the application for production:
+## If changes don't show up
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+If you change `content.config.js` and the site still acts the old way, stop the dev server, delete `.nuxt` and `node_modules/.cache`, and start again.

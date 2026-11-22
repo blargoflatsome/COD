@@ -1,2 +1,3 @@
 User-Agent: *
-Disallow:
+# Player-only pages: reachable by link, but kept out of search engines
+Disallow: /c/npc/bernard-holloway-brief

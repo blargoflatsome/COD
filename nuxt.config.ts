@@ -45,6 +45,10 @@ export default defineNuxtConfig({
       }
     }
   },
+  routeRules: {
+    // The journal moved from a single markdown page to /journal
+    '/c/lore/journal': { redirect: '/journal' },
+  },
   app: {
     head: {
       htmlAttrs: {

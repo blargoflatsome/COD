@@ -1,17 +1,17 @@
 <template>
   <div>
     <h1 class="relative border-b border-default pb-4 text-3xl sm:text-4xl text-pretty font-bold text-highlighted">Despair:</h1>
-    <NuxtImg src="/images/banner2.png" alt="flaws banner" class="w-full h-auto" placeholder  />
+    <NuxtImg src="/images/banner2.webp" alt="flaws banner" class="w-full h-auto" placeholder  />
     <h2>What is Despair?</h2>
     <p>This world has a draining effect on the body and mind. A player will accumulate Despair over the course of the game in a variety of ways.</p>
     <p>Every time you gain 3 ranks in Despair you will also suffer a Flaw. More on that below.</p>
 
     <h2>How to Gain Despair</h2>
-    <p>Whenever the DM feels it is warranted he may give or remove Despair. This could be for plot reasons or player actions. Some monsters or locations may also inflict Despair</p>
+    <p>Whenever the DM feels it is warranted he may give or remove Despair. This could be for plot reasons or player actions. Some monsters or locations may also inflict Despair.</p>
     <p><strong>Fumble</strong> any time you roll a 1 on a D20 you gain a Despair.</p>
 
     <h2>How to Lose Despair</h2>
-    <p>Insiration may be spent during a long rest to remove Despair</p>
+    <p>Inspiration may be spent during a long rest to remove Despair.</p>
     <p><strong>Critical Success</strong> any time you roll a 20 on a D20 you may remove 1 Despair.</p>
 
     <h2>Flaws</h2>
@@ -55,7 +55,7 @@
               <td v-for="key in headers" :key="key">
                 <span v-if="isPrimitive(row[key])">{{ row[key] }}</span>
                 <ul v-else>
-                  <li v-for="(val, prop) in row[key]" :key="prop">
+                  <li v-for="val in (row[key] as FlawOption[])" :key="val.key">
                     {{ val.name }}: {{ val.effect }}
                   </li>
                 </ul>
@@ -69,34 +69,29 @@
 </template>
 
 <script lang="ts" setup>
-import { ref, computed } from 'vue';
-import {flaws} from '../../tables/flaws.json';
+import { flaws } from '../../tables/flaws.json'
 
+type FlawOption = { key: string, name: string, effect?: string }
+type Flaw = { id: number, name: string, permanent: boolean, description?: string, options?: FlawOption[] }
 
-const items = ref<any[]>(Array.isArray(flaws) ? flaws : []);
-const headers = computed(() => (items.value.length ? Object.keys(items.value[0]) : []));
-const selectedFlaw = ref<any>(null);
+useSeoMeta({ title: 'Despair', ogTitle: 'Despair' })
+
+const items: Flaw[] = Array.isArray(flaws) ? flaws : []
+const headers = items.length ? (Object.keys(items[0]!) as (keyof Flaw)[]) : []
+const selectedFlaw = ref<Flaw | null>(null)
+const selectedRandomOption = ref<FlawOption | null>(null)
 
 function isPrimitive(val: unknown) {
-  return val === null || (typeof val !== 'object' && typeof val !== 'function');
+  return val === null || (typeof val !== 'object' && typeof val !== 'function')
 }
 
+function pickFrom<T>(list: T[]): T | null {
+  return list.length ? list[Math.floor(Math.random() * list.length)]! : null
+}
 
+// Roll the flaw and (if it has any) one of its options together, so every click is a fresh roll
 function pickRandomFlaw() {
-  if (!items.value.length) {
-    selectedFlaw.value = null;
-    return;
-  }
-  const idx = Math.floor(Math.random() * items.value.length);
-  const item = items.value[idx];
-  selectedFlaw.value = item
+  selectedFlaw.value = pickFrom(items)
+  selectedRandomOption.value = pickFrom(selectedFlaw.value?.options ?? [])
 }
-
-const selectedRandomOption = computed(() => {
-  if (!selectedFlaw.value?.options || selectedFlaw.value.options.length === 0) {
-    return null;
-  }
-  const idx = Math.floor(Math.random() * selectedFlaw.value.options.length);
-  return selectedFlaw.value.options[idx];
-});
 </script>
