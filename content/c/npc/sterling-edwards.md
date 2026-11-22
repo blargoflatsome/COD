@@ -4,8 +4,5 @@ A wealthy business owner within Gear City. Known gambler and One of the heads of
 
 Father of Alvin Edwards, a fashion designer and owner of the Edwards Clothing store.
 
-## Character Relations
-Has a date lined up with Eowyn after losing to her in a drinking contest.
-
 ## The Argent Consortium Logo
 <img src="/images/icons/argent-consortium-500.webp" alt="Argent Consortium Logo" width="300" class="h-auto w-[300px] rounded-lg border ml-4" />
