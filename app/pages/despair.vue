@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1 class="relative border-b border-default pb-4 text-3xl sm:text-4xl text-pretty font-bold text-highlighted">Despair:</h1>
-    <NuxtImg src="/images/banner2.webp" alt="flaws banner" class="w-full h-auto" placeholder  />
+    <NuxtImg src="/images/banner2.webp" alt="" width="1952" height="608" class="w-full h-auto" placeholder  />
     <h2>What is Despair?</h2>
     <p>This world has a draining effect on the body and mind. A player will accumulate Despair over the course of the game in a variety of ways.</p>
     <p>Every time you gain 3 ranks in Despair you will also suffer a Flaw. More on that below.</p>
@@ -34,7 +34,7 @@
       </template>
     </UModal>
 
-    <h2>**Spoilers**</h2>
+    <h2><strong>Spoilers</strong></h2>
     <UCollapsible class="">
       <UButton
         label="Open Flaw Table"

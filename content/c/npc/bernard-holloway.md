@@ -1,4 +1,4 @@
-<img src="/images/npc/bernard-holloway.webp" alt="Bernard Holloway" width="300" align="right" class="h-auto w-[300px] rounded-lg border ml-4" />
+<img src="/images/npc/bernard-holloway.webp" alt="Bernard Holloway" width="300" height="300" class="float-right h-auto w-[300px] rounded-lg border ml-4" />
 
 Bernard Holloway is a Traveler, a man in his mid 30's who crossed the Threshold with the party but did not arrive in Gear City with them. He is now a ratman, desperate to be brave.
 

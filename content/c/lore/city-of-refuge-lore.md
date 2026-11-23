@@ -1,5 +1,5 @@
 
-<img src="/images/locations/refuge-lore-map.webp" alt="The City of Refuge" width="500" class="h-auto rounded-lg border ml-4" />
+<img src="/images/locations/refuge-lore-map.webp" alt="The City of Refuge" width="500" height="333" class="h-auto rounded-lg border ml-4" />
 
 ## Geography and Urban Character
 

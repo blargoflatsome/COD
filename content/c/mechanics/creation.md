@@ -1,4 +1,4 @@
-![Banner Image](/images/creation-banner.webp)
+<img src="/images/creation-banner.webp" alt="" width="1920" height="599" class="w-full h-auto" />
 
 ## DnD Beyond
 [Join The Campaign](https://www.dndbeyond.com/campaigns/join/58697612909311391)
