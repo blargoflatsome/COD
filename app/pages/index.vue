@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="w-screen relative left-1/2 -ml-[50vw] right-1/2 -mr-[50vw] max-w-screen h-auto">
-      <NuxtImg src="/images/mainBanner2.webp" alt="The entrance to the Catacombs" class="w-full h-auto" />
+      <NuxtImg src="/images/mainBanner2.webp" alt="The entrance to the Catacombs" width="1920" height="599" class="w-full h-auto" />
     </div>
 
     <h1>Catacombs of Despair</h1>

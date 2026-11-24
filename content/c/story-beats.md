@@ -1,4 +1,4 @@
-![Banner Image](/images/story-beats-banner.webp)
+<img src="/images/story-beats-banner.webp" alt="" width="1952" height="608" class="w-full h-auto" />
 
 > This is an experimental leveling system and is subject to change during play.
 

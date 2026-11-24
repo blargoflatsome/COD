@@ -1,4 +1,4 @@
-<img src="/images/npc/cassian.webp" alt="Cassian" width="300" align="right" class="h-auto w-[300px] rounded-lg border ml-4" />
+<img src="/images/npc/cassian.webp" alt="Cassian" width="300" height="264" class="float-right h-auto w-[300px] rounded-lg border ml-4" />
 
 Cassian is a Tiefling Traveler that has retired to a tall tower outside of Gear City. From his tower he waits and greets all new Travelers who arrive. He enjoys hearing their stories and guiding them on their way.
 

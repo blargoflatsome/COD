@@ -1,4 +1,4 @@
-<img src="/images/npc/archon-pell.webp" alt="Archon Pell" width="300" align="right" class="h-auto w-[300px] rounded-lg border ml-4" />
+<img src="/images/npc/archon-pell.webp" alt="Archon Pell" width="300" height="300" class="float-right h-auto w-[300px] rounded-lg border ml-4" />
 
 Archon Pell belongs to the Ossified, one of the twelve faiths of the City of Refuge. The party found him behind a secret door in an abandoned church, down a hidden passage.
 

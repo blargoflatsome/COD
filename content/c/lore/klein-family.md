@@ -1,4 +1,4 @@
-<img src="/images/npc/klein-family.webp" alt="The Klein Family" width="300" align="right" class="h-auto w-[300px] rounded-lg border ml-4" />
+<img src="/images/npc/klein-family.webp" alt="The Klein Family" width="300" height="200" class="float-right h-auto w-[300px] rounded-lg border ml-4" />
 
 The Klein family lays claim over the archaelogical dig known as the Catacombs of Despair. They are aware of the Threshold, but they deny it as absurd publically. All while allowing the profiteering of those who smuggle the desperate down to pass through it. 
 
